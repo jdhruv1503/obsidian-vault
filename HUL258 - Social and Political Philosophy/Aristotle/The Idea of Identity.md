@@ -1,0 +1,10 @@
+- For Aristotle, political participation is key to human identity. It is what makes someone fully human.
+- Lack of participation reduces people to slavery, animality, or childishness. These people lack elements key to humanity like reason, speech, and rationally chosen action.
+- Participation allows for reasoned speech, deliberation, and choice, the things that distinguish human beings and make them rational animals.
+- The polis provides an arena for adults to exercise reason through speech, unlike the private household where necessities dominate.
+- Participating in politics and speaking rationally are activities unique to human beings and how they realize their identity. It makes them fully human and distinguishes them from other types of beings.
+- Exclusion from politics is exclusion from activities and capabilities unique to human identity. It literally dehumanizes people.
+- Political participation exercises capacities essential to being fully human - reason, speech, rational choice. It allows people to realize their telos and develop their identity.
+- Aristotle believes some categories like women and slaves lack elements of rationality and speech. Therefore, their exclusion from politics does not exclude them from activities essential to their identity, as they are less than fully human.
+- However, if these assumptions about women and slaves are wrong, then the logic dictates they should participate, as it would allow them to exercise reason, choice, speech and realize their identity.
+- In Aristotle's view, human identity is directly tied to the capacity to exercise reason through speech, which is only available in politics. Participation or exclusion shapes identity.

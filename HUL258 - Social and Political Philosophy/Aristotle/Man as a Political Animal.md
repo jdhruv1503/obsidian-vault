@@ -1,0 +1,11 @@
+
+- Aristotle argues that the human being is inherently a political animal, meant to live in a political community. This sets him apart from other beings.
+- The political community allows human beings to actualize their full potential and achieve the highest good, which is happiness (eudaimonia). Happiness comes through living virtuously. 
+- Living virtuously means acting rationally. Rationality is unique to human beings, setting them apart from other animals and beings that lack reason.
+- Rationality develops through speech, which allows human beings to deliberate on actions and make choices. Deliberation and choice are key to acting rationally and virtuously. Speech and reason are only fully actualized in the political arena.
+- Therefore, it is only within the political community that human beings can develop rationality, engage in deliberative choice, and live a virtuously happy life. The political community provides the arena for this.
+- Aristotle argues that human beings are political by nature. Other communal units like the family are natural, but exist to serve human necessities like reproduction and survival. The political community transcends mere necessities.
+- The political community allows for things unnecessary for mere life, like philosophy, arts, culture. It allows activities done for their own sake. This is critical for happiness.
+- The political community comes into being to allow human beings to live well. Mere life is not the goal, but living well, which entails acting rationally and developing virtue. This can only occur in the political arena.
+- Therefore, isolation from the political community would reduce human beings to merely living, not living well. Participation in politics is essential for human beings to achieve their natural potential and function.
+- The political community is the culmination of lower communities that serve basic necessities like family and village. It is the teleological end goal implied in human nature and development.

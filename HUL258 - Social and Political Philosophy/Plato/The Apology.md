@@ -1,0 +1,17 @@
+
+Plato's Apology depicts the trial of Socrates and is one of the most famous works in philosophy. It is not an apology, but rather Socrates' defense against charges brought against him. Since Plato was present at the trial, the Apology provides insight into Socrates' character and why he was beloved throughout history. 
+
+**Socrates' Background and Reputation** 
+The transcript then provides background on Socrates' reputation in Athens. He explains that false accusations against him had circulated for years, stemming from Aristophanes' satire The Clouds, which depicted Socrates as a sophist. This caused many to believe Socrates did not believe in the gods. Socrates argues these longstanding rumors made many prejudiced against him before his trial began. 
+
+**Philosophical Quest and Questioning of Athenians**
+Socrates recounts how his friend visited the Oracle at Delphi, which declared Socrates the wisest man in Greece. Puzzled by this, Socrates embarked on a quest to prove the Oracle wrong by questioning reputed wise men to find someone wiser than himself. He questioned politicians, poets, and craftsmen, finding they lacked the wisdom they claimed and grew annoyed when Socrates revealed their ignorance. Socrates realized the Oracle was correct – he was wiser than most in understanding the extent of his own ignorance regarding wisdom. This quest led him to gain a following of young men who imitated Socrates by questioning others, further irritating influential Athenians.
+
+**Charges Against Socrates**
+Socrates then addresses the formal charges against him - corrupting the youth and impiety. He argues it would make no sense for him to intentionally corrupt Athens' youth since he lives there himself. Regarding impiety, Socrates gets his accuser Meletus to admit Socrates believes in spirits, which means he cannot be an outright atheist as charged. Socrates argues he should not fear death, as no one truly knows whether it may be a blessing. His priority has always been living justly and examining himself and others, not avoiding death.
+
+**Socrates as a Gadfly and Obedience to God**
+Socrates believes he was placed in Athens by the gods to be a gadfly - someone who would persistently challenge and stir the citizens to care for their souls above material things. He says he was compelled to philosophize regardless of the outcome, as he must obey the gods rather than men. He predicts his death will inspire many more to take up his cause.
+
+**Sentencing and Famous Concluding Remarks**
+After being found guilty, Socrates proposes the satirical punishment that he should be rewarded with free meals for his service to Athens. He is sentenced to death. In his final remarks, Socrates argues an admirable man should concern himself with whether his actions are right or wrong, not avoiding death at any cost. He believes his convictions should be judged as correct, and feels his spirit has opposed him not at all throughout the trial, taking this as a sign that death may be a blessing. He imagines the afterlife will allow him to examine kings and heroes of history. Socrates concludes that a good man cannot be harmed in life or death, and though the jury condemned him, he feels he condemns them for acting unjustly. He is not resentful, only wishing for virtue to be valued above all.
