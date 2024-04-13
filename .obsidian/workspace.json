@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "da78d92c03b93838",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a9610b621d80b3e",
+  "active": "da78d92c03b93838",
   "lastOpenFiles": [
     "HUL258 - Social and Political Philosophy/HUL258.md",
     "HUL258 - Social and Political Philosophy/Machiavelli/Machiavelli.md",
