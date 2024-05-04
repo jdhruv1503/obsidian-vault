@@ -1,6 +1,4 @@
 
-Here is a 2000 word introduction exploring some of the key ideas and arguments in Carl Schmitt's influential work "The Concept of the Political":
-
 Carl Schmitt's 1932 essay "The Concept of the Political" presents a provocative and controversial theory about the fundamental nature of politics and the state. At its core is the idea that politics is inherently rooted in the friend-enemy distinction - the basic grouping of human beings into an "us vs them" dichotomy based on the possibility of conflict and enmity.
 
 For Schmitt, the political derives its meaning and significance from the ever-present potential for the extreme case of an existential conflict with another group. This "possibility of violence" between adversaries is the defining criterion that separates the political realm from other domains like economics, culture, religion etc. The political denotes "the utmost degree of intensity of a union or dissociation, of an association or disassociation."
