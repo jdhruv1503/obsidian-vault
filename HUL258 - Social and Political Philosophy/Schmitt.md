@@ -1,0 +1,32 @@
+
+Here is a 2000 word introduction exploring some of the key ideas and arguments in Carl Schmitt's influential work "The Concept of the Political":
+
+Carl Schmitt's 1932 essay "The Concept of the Political" presents a provocative and controversial theory about the fundamental nature of politics and the state. At its core is the idea that politics is inherently rooted in the friend-enemy distinction - the basic grouping of human beings into an "us vs them" dichotomy based on the possibility of conflict and enmity.
+
+For Schmitt, the political derives its meaning and significance from the ever-present potential for the extreme case of an existential conflict with another group. This "possibility of violence" between adversaries is the defining criterion that separates the political realm from other domains like economics, culture, religion etc. The political denotes "the utmost degree of intensity of a union or dissociation, of an association or disassociation."
+
+Schmitt argues that all genuine political theories and ideas consciously or unconsciously presuppose the objective possibility that, at some point, human groupings may be required to make the decisive friend-or-enemy distinction - a willingness to spiritually and physically fight the adversary if necessary. Failing to recognize and accept this core aspect of the political, he claims, is to depoliticize a fundamental level of human existence.
+
+The friend-enemy grouping is therefore the sine qua non of politics, eclipsing other associations like class, religion, or culture which can only become political if allied to that foundational distinction. Every religious, moral, economic, or other antithesis transforms itself into a political one if it is "sufficiently strong to group human beings effectively according to friend and enemy."
+
+A key argument is that the state has no raison d'être except as the decisive political entity which wields sovereignty - which ultimately comes down to "the real possibility of deciding in a concrete situation upon the enemy and the ability to fight him." Liberal norms and institutions like democracy, human rights, and the rule of law are only possible derivatively, existing in the stable environment the state creates by having a monopoly on legitimate violence and the capacity for existential hostility.
+
+The essay has been fiercely criticized by many as a cynical valorization of violence and conflict at the expense of liberal democratic values and peaceful coexistence between peoples. Some see it as laying intellectual foundations for the extreme nationalism and authoritarianism of the Nazi regime (despite Schmitt's later break with the Nazis).
+
+However, defenders argue it presents an unflinching diagnosis of political realism - the eternal potential for irresolvable conflicts of identity between social groupings, and the centrality of statehood and power in ordering human affairs. Far from promoting warmongering, Schmitt aimed to establish respect for the autonomy of the political as distinct from other realms which should not be contaminated with political-existential claims.
+
+An intriguing aspect is Schmitt's contention that liberalism seeks to obscure and evade the political by striving for a universal homogeneous state and cosmopolitan world of harmony and commerce rather than accepting conflicts of interest and identity as an inescapable part of the human condition. Such liberal "depoliticization" is seen as utopian and fostering weak states ill-equipped for decisive action against true enemies.
+
+Against this, critics accuse Schmitt of unduly narrowing the domain of politics to a permanent state of exceptionalism and emergency rather than normal democratic give-and-take. The focus on the extreme friend-enemy distinction, they argue, precludes legitimate political exchange and non-violent resolution of conflicts through liberal-democratic mechanisms.
+
+There is also debate around whether Schmitt is simply describing an empirical reality orwhether he is advocating this perception of the political as intrinsically adversarial and defined by the possibility of ultimate enmity. Some argue he lapses into performative self-fulfillment - declaring the essence of politics as uncompromising friend-enemy relations and then acting accordingly.
+
+One could argue there is validity to Schmitt's core insight that identity-based groupings are a fundamental part of politics and that purely individualist liberalism fails to account for this. The persistence of nationalism, ethnic, religious and other forms of group-based allegiances - which can spark fierce conflicts - supports the idea that political rivalry between populations is an enduring human tendency.
+
+Moreover, the historical record of warfare, violence, and existential threats faced by states also speaks to Schmitt's emphasis on the organised capacity for hostility as shaping the political context. Governments have risen and fallen on their ability to provide security against external foes.
+
+However, critics would contend Schmitt goes too far in centring the contingency of extreme, violent antagonism as defining politics itself. They would argue it is an unnecessarily zero-sum, Manichean vision that ignores the ability of politics to productively engage with diversity through deliberation, cooperation and peaceful competition within established institutional frameworks.
+
+There is also the risk that Schmitt's arguments become a self-perpetuating rationalization for escalating tensions, militarism and authoritarianism if the exceptional friend-enemy polarity is seen as the essence rather than an abnormal pathology to be managed. The disastrous political consequences of propagating such a philosophy speak to the need for tempering visions of ineradicable, irreconcilable conflict.
+
+In sum, while Schmitt's core thesis draws insightful attention to the stubbornly adversarial, zero-sum and potentially violent dimensions of group identity formation, his hyper-politicization of this aspect arguably occludes the capacity for pluralism, difference and non-violent political contestation under the rule of law. Recognizing the ever-present possibility of conflict is one thing; erecting it into the defining essence risks becoming a belligerent and authoritarian dead-end.
