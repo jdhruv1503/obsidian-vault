@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f17bfc6d514b3f15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to Value a Company.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HUL258 - Social and Political Philosophy/Rawls and Nozick.md",
+                "file": "How to Value a Company.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HUL258 - Social and Political Philosophy/Rawls and Nozick.md",
+                "file": "How to Value a Company.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HUL258 - Social and Political Philosophy/Rawls and Nozick.md"
+                "file": "How to Value a Company.md"
               }
             }
           }
@@ -159,11 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da78d92c03b93838",
+  "active": "f17bfc6d514b3f15",
   "lastOpenFiles": [
+    "HUL258 - Social and Political Philosophy/Rawls and Nozick.md",
+    "How to Value a Company.md",
     "HUL258 - Social and Political Philosophy/Social Contract Theory.md",
     "HUL258 - Social and Political Philosophy/Foucault.md",
-    "HUL258 - Social and Political Philosophy/Rawls and Nozick.md",
     "HUL258 - Social and Political Philosophy/Schmitt.md",
     "HUL258 - Social and Political Philosophy/HUL258.md",
     "HUL258 - Social and Political Philosophy/Machiavelli/Machiavelli.md",
