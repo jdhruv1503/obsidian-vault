@@ -47,9 +47,11 @@
             "id": "cc3047784dc27d9a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.5"
+                "file": "How to Value a Company.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
