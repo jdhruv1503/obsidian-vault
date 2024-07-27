@@ -59,9 +59,11 @@
             "id": "7dbd60c9ebd8dcdd",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "HUL258 - Social and Political Philosophy/Rawls and Nozick.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to Value a Company.md",
+                "file": "HUL258 - Social and Political Philosophy/Rawls and Nozick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to Value a Company.md",
+                "file": "HUL258 - Social and Political Philosophy/Rawls and Nozick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to Value a Company.md"
+                "file": "HUL258 - Social and Political Philosophy/Rawls and Nozick.md"
               }
             }
           }
@@ -195,12 +197,12 @@
   },
   "active": "7dbd60c9ebd8dcdd",
   "lastOpenFiles": [
+    "HUL258 - Social and Political Philosophy/HUL258.md",
     "HUL258 - Social and Political Philosophy/Rawls and Nozick.md",
     "How to Value a Company.md",
     "HUL258 - Social and Political Philosophy/Social Contract Theory.md",
     "HUL258 - Social and Political Philosophy/Foucault.md",
     "HUL258 - Social and Political Philosophy/Schmitt.md",
-    "HUL258 - Social and Political Philosophy/HUL258.md",
     "HUL258 - Social and Political Philosophy/Machiavelli/Machiavelli.md",
     "HUL258 - Social and Political Philosophy/Plato/The Apology.md",
     "HUL258 - Social and Political Philosophy/Plato/Plato.md",
