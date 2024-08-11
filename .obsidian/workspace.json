@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/Confusion matrix.md",
+                "file": "Precision and recall.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/Confusion matrix.md",
+                "file": "Precision and recall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/Confusion matrix.md",
+                "file": "Precision and recall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/Confusion matrix.md"
+                "file": "Precision and recall.md"
               }
             }
           }
@@ -198,14 +198,16 @@
   "active": "7dbd60c9ebd8dcdd",
   "lastOpenFiles": [
     "ELL409 - Machine Intelligence and Learning/4. Evaluation.md",
+    "Precision and recall.md",
     "ELL409 - Machine Intelligence and Learning/Confusion matrix.md",
     "ELL409 - Machine Intelligence and Learning/Clustering or unsupervised learning.md",
+    "ELL409 - Machine Intelligence and Learning/Regression.md",
+    "1_Z54JgbS4DUwWSknhDCvNTQ.png",
     "heuristic based.md",
     "ELL409 - Machine Intelligence and Learning/3. Learning methods.md",
     "Clustering/unsupervised learning.md",
     "Clustering",
     "ELL409 - Machine Intelligence and Learning/Classification.md",
-    "ELL409 - Machine Intelligence and Learning/Regression.md",
     "ELL409 - Machine Intelligence and Learning/2. Learning tasks.md",
     "ELL409 - Machine Intelligence and Learning/1. Terminologies.md",
     "HUL258 - Social and Political Philosophy/HUL258.md",
@@ -228,7 +230,6 @@
     "ELL409 - Machine Intelligence and Learning/Definitions",
     "ELL409 - Machine Intelligence and Learning",
     "How to Value a Company.md",
-    "HUL258 - Social and Political Philosophy/Social Contract Theory.md",
     "HUL258 - Social and Political Philosophy/Plato",
     "HUL258 - Social and Political Philosophy/Nietzsche",
     "HUL258 - Social and Political Philosophy/Machiavelli",
