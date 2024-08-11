@@ -1,4 +1,4 @@
 
 ## Precision
 
-$Precision = \frac{TP, TP+FP}}$
+$Precision = \frac{TP}{TP+FP}}$
