@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/Definitions/Untitled.md",
+                "file": "ELL409 - Machine Intelligence and Learning/Definitions/Dataset terminology.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/Definitions/Untitled.md",
+                "file": "ELL409 - Machine Intelligence and Learning/Definitions/Dataset terminology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/Definitions/Untitled.md",
+                "file": "ELL409 - Machine Intelligence and Learning/Definitions/Dataset terminology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/Definitions/Untitled.md"
+                "file": "ELL409 - Machine Intelligence and Learning/Definitions/Dataset terminology.md"
               }
             }
           }
@@ -197,8 +197,9 @@
   },
   "active": "7dbd60c9ebd8dcdd",
   "lastOpenFiles": [
+    "ELL409 - Machine Intelligence and Learning/Definitions/Blackbox and Whitebox Models.md",
+    "ELL409 - Machine Intelligence and Learning/Definitions/Dataset terminology.md",
     "ELL409 - Machine Intelligence and Learning/Definitions/Algorithm.md",
-    "ELL409 - Machine Intelligence and Learning/Definitions/Untitled.md",
     "ELL409 - Machine Intelligence and Learning/Definitions/Machine Learning.md",
     "ELL409 - Machine Intelligence and Learning/Definitions/Learning task.md",
     "ELL409 - Machine Intelligence and Learning/Terminologies.md",
@@ -227,7 +228,6 @@
     "HUL258 - Social and Political Philosophy/Nietzsche/Nietzsche.md",
     "HUL258 - Social and Political Philosophy/Nietzsche/God is dead.md",
     "HUL258 - Social and Political Philosophy/Socrates/The Sophists.md",
-    "HUL258 - Social and Political Philosophy/Aristotle/The Idea of Identity.md",
     "HUL258 - Social and Political Philosophy/Plato",
     "HUL258 - Social and Political Philosophy/Nietzsche",
     "HUL258 - Social and Political Philosophy/Machiavelli",
