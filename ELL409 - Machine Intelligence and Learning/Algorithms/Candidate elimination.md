@@ -12,3 +12,10 @@ resents the version space by storing only its most general members (labeled $G$)
 Then,
 
 ![[Pasted image 20240812042519.png]]
+
+### Remarks
+
+![[Pasted image 20240812042603.png]]
+
+![[Pasted image 20240812042616.png]]
+
