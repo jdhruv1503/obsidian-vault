@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/Coefficient of determination.md",
+                "file": "ELL409 - Machine Intelligence and Learning/3. Learning methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/Coefficient of determination.md",
+                "file": "ELL409 - Machine Intelligence and Learning/3. Learning methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/Coefficient of determination.md",
+                "file": "ELL409 - Machine Intelligence and Learning/3. Learning methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/Coefficient of determination.md"
+                "file": "ELL409 - Machine Intelligence and Learning/3. Learning methods.md"
               }
             }
           }
@@ -195,7 +195,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8426297dd5e0e138",
+  "active": "7dbd60c9ebd8dcdd",
   "lastOpenFiles": [
     "ELL409 - Machine Intelligence and Learning/4. Evaluation.md",
     "ELL409 - Machine Intelligence and Learning/Coefficient of determination.md",
