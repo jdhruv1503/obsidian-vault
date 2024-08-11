@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Precision and recall.md",
+                "file": "ELL409 - Machine Intelligence and Learning/Precision and recall.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Precision and recall.md",
+                "file": "ELL409 - Machine Intelligence and Learning/Precision and recall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Precision and recall.md",
+                "file": "ELL409 - Machine Intelligence and Learning/Precision and recall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Precision and recall.md"
+                "file": "ELL409 - Machine Intelligence and Learning/Precision and recall.md"
               }
             }
           }
@@ -195,7 +195,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7dbd60c9ebd8dcdd",
+  "active": "8426297dd5e0e138",
   "lastOpenFiles": [
     "How to Value a Company.md",
     "HUL258 - Social and Political Philosophy/Social Contract Theory.md",
@@ -210,7 +210,7 @@
     "ELL409 - Machine Intelligence and Learning/Confusion matrix.md",
     "ELL409 - Machine Intelligence and Learning/Clustering or unsupervised learning.md",
     "ELL409 - Machine Intelligence and Learning/Regression.md",
-    "Precision and recall.md",
+    "ELL409 - Machine Intelligence and Learning/Precision and recall.md",
     "heuristic based.md",
     "Clustering/unsupervised learning.md",
     "Clustering",
