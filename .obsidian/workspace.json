@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/Definitions/Dataset terminology.md",
+                "file": "ELL409 - Machine Intelligence and Learning/Definitions/Discrete variable 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/Definitions/Dataset terminology.md",
+                "file": "ELL409 - Machine Intelligence and Learning/Definitions/Discrete variable 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/Definitions/Dataset terminology.md",
+                "file": "ELL409 - Machine Intelligence and Learning/Definitions/Discrete variable 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/Definitions/Dataset terminology.md"
+                "file": "ELL409 - Machine Intelligence and Learning/Definitions/Discrete variable 1.md"
               }
             }
           }
@@ -197,8 +197,12 @@
   },
   "active": "7dbd60c9ebd8dcdd",
   "lastOpenFiles": [
-    "ELL409 - Machine Intelligence and Learning/Definitions/Blackbox and Whitebox Models.md",
+    "ELL409 - Machine Intelligence and Learning/Definitions/Discrete variable.md",
+    "ELL409 - Machine Intelligence and Learning/Definitions/Discrete variable 1.md",
+    "ELL409 - Machine Intelligence and Learning/Definitions/Categorical variable.md",
+    "ELL409 - Machine Intelligence and Learning/Definitions/Variables.md",
     "ELL409 - Machine Intelligence and Learning/Definitions/Dataset terminology.md",
+    "ELL409 - Machine Intelligence and Learning/Definitions/Blackbox and Whitebox Models.md",
     "ELL409 - Machine Intelligence and Learning/Definitions/Algorithm.md",
     "ELL409 - Machine Intelligence and Learning/Definitions/Machine Learning.md",
     "ELL409 - Machine Intelligence and Learning/Definitions/Learning task.md",
@@ -224,10 +228,6 @@
     "HUL258 - Social and Political Philosophy/Nietzsche/├£bermensch.md",
     "HUL258 - Social and Political Philosophy/Socrates/Trial and Death.md",
     "HUL258 - Social and Political Philosophy/Nietzsche/Will to power.md",
-    "HUL258 - Social and Political Philosophy/Socrates/The unexamined life is not worth living.md",
-    "HUL258 - Social and Political Philosophy/Nietzsche/Nietzsche.md",
-    "HUL258 - Social and Political Philosophy/Nietzsche/God is dead.md",
-    "HUL258 - Social and Political Philosophy/Socrates/The Sophists.md",
     "HUL258 - Social and Political Philosophy/Plato",
     "HUL258 - Social and Political Philosophy/Nietzsche",
     "HUL258 - Social and Political Philosophy/Machiavelli",
