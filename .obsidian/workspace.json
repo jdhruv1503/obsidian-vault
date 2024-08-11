@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HUL258 - Social and Political Philosophy/Rawls and Nozick.md",
+                "file": "Definitions/Learning task.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HUL258 - Social and Political Philosophy/Rawls and Nozick.md",
+                "file": "Definitions/Learning task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HUL258 - Social and Political Philosophy/Rawls and Nozick.md",
+                "file": "Definitions/Learning task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HUL258 - Social and Political Philosophy/Rawls and Nozick.md"
+                "file": "Definitions/Learning task.md"
               }
             }
           }
@@ -195,11 +195,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8426297dd5e0e138",
+  "active": "7dbd60c9ebd8dcdd",
   "lastOpenFiles": [
-    "Untitled",
-    "HUL258 - Social and Political Philosophy/HUL258.md",
+    "ELL409 - Machine Intelligence and Learning/Terminologies.md",
+    "Definitions/Learning task.md",
+    "Definitions",
+    "ELL409 - Machine Intelligence and Learning/Definitions",
     "HUL258 - Social and Political Philosophy/Rawls and Nozick.md",
+    "ELL409 - Machine Intelligence and Learning",
+    "HUL258 - Social and Political Philosophy/HUL258.md",
     "How to Value a Company.md",
     "HUL258 - Social and Political Philosophy/Social Contract Theory.md",
     "HUL258 - Social and Political Philosophy/Foucault.md",
@@ -228,8 +232,6 @@
     "HUL258 - Social and Political Philosophy/Socrates",
     "HUL258 - Social and Political Philosophy/Aristotle",
     "HUL258 - Social and Political Philosophy",
-    "Hello/hey there.md",
-    "WEF",
-    "Hello"
+    "WEF"
   ]
 }
