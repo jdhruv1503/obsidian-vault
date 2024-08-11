@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/2. Learning tasks.md",
+                "file": "ELL409 - Machine Intelligence and Learning/3. Learning methods for Classification - Concept Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/2. Learning tasks.md",
+                "file": "ELL409 - Machine Intelligence and Learning/3. Learning methods for Classification - Concept Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/2. Learning tasks.md",
+                "file": "ELL409 - Machine Intelligence and Learning/3. Learning methods for Classification - Concept Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/2. Learning tasks.md"
+                "file": "ELL409 - Machine Intelligence and Learning/3. Learning methods for Classification - Concept Learning.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "cfd244009caaec65",
   "lastOpenFiles": [
+    "ELL409 - Machine Intelligence and Learning/2. Learning tasks.md",
     "ELL409 - Machine Intelligence and Learning/1. Terminologies.md",
     "ELL409 - Machine Intelligence and Learning/Images/Pasted image 20240812040737.png",
     "ELL409 - Machine Intelligence and Learning/3. Learning methods for Classification - Concept Learning.md",
-    "ELL409 - Machine Intelligence and Learning/2. Learning tasks.md",
     "ELL409 - Machine Intelligence and Learning/5. Evaluation.md",
     "ELL409 - Machine Intelligence and Learning/Definitions/Inductive bias.md",
     "ELL409 - Machine Intelligence and Learning/Algorithms/Candidate elimination.md",
