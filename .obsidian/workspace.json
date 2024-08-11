@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Precision and recall.md",
+                "file": "ELL409 - Machine Intelligence and Learning/4. Evaluation.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Precision and recall.md",
+                "file": "ELL409 - Machine Intelligence and Learning/4. Evaluation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Precision and recall.md",
+                "file": "ELL409 - Machine Intelligence and Learning/4. Evaluation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Precision and recall.md"
+                "file": "ELL409 - Machine Intelligence and Learning/4. Evaluation.md"
               }
             }
           }
@@ -197,8 +197,8 @@
   },
   "active": "7dbd60c9ebd8dcdd",
   "lastOpenFiles": [
-    "ELL409 - Machine Intelligence and Learning/4. Evaluation.md",
     "Precision and recall.md",
+    "ELL409 - Machine Intelligence and Learning/4. Evaluation.md",
     "ELL409 - Machine Intelligence and Learning/Confusion matrix.md",
     "ELL409 - Machine Intelligence and Learning/Clustering or unsupervised learning.md",
     "ELL409 - Machine Intelligence and Learning/Regression.md",

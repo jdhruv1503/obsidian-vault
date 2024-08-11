@@ -7,6 +7,6 @@ $\text{Precision} = \frac{TP}{\text{TP} + \text{FP}}$
 
 ## Recall
 
-Ratio of true positives to all positives.
+Ratio of true positives to TP+FN.
 
-$\text{Precision} = \frac{TP}{\text{TP} + \text{FP}}$
+$\text{Recall} = \frac{TP}{\text{TP} + \text{FN}}$
