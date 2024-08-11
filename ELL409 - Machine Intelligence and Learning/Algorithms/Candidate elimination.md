@@ -19,3 +19,6 @@ Then,
 
 ![[Pasted image 20240812042616.png]]
 
+![[Pasted image 20240812042632.png]]
+
+![[Pasted image 20240812042644.png]]**
