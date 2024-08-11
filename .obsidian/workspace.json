@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/Learning tasks.md",
+                "file": "ELL409 - Machine Intelligence and Learning/Regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/Learning tasks.md",
+                "file": "ELL409 - Machine Intelligence and Learning/Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/Learning tasks.md",
+                "file": "ELL409 - Machine Intelligence and Learning/Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/Learning tasks.md"
+                "file": "ELL409 - Machine Intelligence and Learning/Regression.md"
               }
             }
           }
@@ -197,8 +197,12 @@
   },
   "active": "7dbd60c9ebd8dcdd",
   "lastOpenFiles": [
-    "ELL409 - Machine Intelligence and Learning/Learning tasks.md",
-    "ELL409 - Machine Intelligence and Learning/Terminologies.md",
+    "ELL409 - Machine Intelligence and Learning/2. Learning tasks.md",
+    "ELL409 - Machine Intelligence and Learning/1. Terminologies.md",
+    "HUL258 - Social and Political Philosophy/HUL258.md",
+    "HUL258 - Social and Political Philosophy/Schmitt.md",
+    "HUL258 - Social and Political Philosophy/Rawls and Nozick.md",
+    "ELL409 - Machine Intelligence and Learning/Regression.md",
     "ELL409 - Machine Intelligence and Learning/Definitions/Dataset terminology.md",
     "ELL409 - Machine Intelligence and Learning/Definitions/Variables.md",
     "ELL409 - Machine Intelligence and Learning/Definitions/Learning task.md",
@@ -214,20 +218,16 @@
     "Definitions/Learning task.md",
     "Definitions",
     "ELL409 - Machine Intelligence and Learning/Definitions",
-    "HUL258 - Social and Political Philosophy/Rawls and Nozick.md",
     "ELL409 - Machine Intelligence and Learning",
-    "HUL258 - Social and Political Philosophy/HUL258.md",
     "How to Value a Company.md",
     "HUL258 - Social and Political Philosophy/Social Contract Theory.md",
     "HUL258 - Social and Political Philosophy/Foucault.md",
-    "HUL258 - Social and Political Philosophy/Schmitt.md",
     "HUL258 - Social and Political Philosophy/Machiavelli/Machiavelli.md",
     "HUL258 - Social and Political Philosophy/Plato/The Apology.md",
     "HUL258 - Social and Political Philosophy/Plato/Plato.md",
     "HUL258 - Social and Political Philosophy/Plato/Five forms of government.md",
     "HUL258 - Social and Political Philosophy/Plato/Kallipolis.md",
     "HUL258 - Social and Political Philosophy/Nietzsche/├£bermensch.md",
-    "HUL258 - Social and Political Philosophy/Socrates/Trial and Death.md",
     "HUL258 - Social and Political Philosophy/Plato",
     "HUL258 - Social and Political Philosophy/Nietzsche",
     "HUL258 - Social and Political Philosophy/Machiavelli",
