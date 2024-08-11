@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hypothesis.md",
+                "file": "ELL409 - Machine Intelligence and Learning/3. Learning methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hypothesis.md",
+                "file": "ELL409 - Machine Intelligence and Learning/3. Learning methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hypothesis.md",
+                "file": "ELL409 - Machine Intelligence and Learning/3. Learning methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hypothesis.md"
+                "file": "ELL409 - Machine Intelligence and Learning/3. Learning methods.md"
               }
             }
           }
@@ -197,8 +197,10 @@
   },
   "active": "7dbd60c9ebd8dcdd",
   "lastOpenFiles": [
+    "ELL409 - Machine Intelligence and Learning/2. Learning tasks.md",
     "ELL409 - Machine Intelligence and Learning/1. Terminologies.md",
-    "Hypothesis.md",
+    "ELL409 - Machine Intelligence and Learning/Definitions/Hypothesis space.md",
+    "ELL409 - Machine Intelligence and Learning/Definitions/Hypothesis.md",
     "ELL409 - Machine Intelligence and Learning/1_Z54JgbS4DUwWSknhDCvNTQ.png",
     "ELL409 - Machine Intelligence and Learning/Definitions/Target concept (c).md",
     "ELL409 - Machine Intelligence and Learning/3. Learning methods.md",
@@ -218,13 +220,11 @@
     "heuristic based.md",
     "Clustering/unsupervised learning.md",
     "Clustering",
-    "ELL409 - Machine Intelligence and Learning/2. Learning tasks.md",
     "HUL258 - Social and Political Philosophy/HUL258.md",
     "HUL258 - Social and Political Philosophy/Schmitt.md",
     "ELL409 - Machine Intelligence and Learning/Definitions/Dataset terminology.md",
     "ELL409 - Machine Intelligence and Learning/Definitions/Variables.md",
     "ELL409 - Machine Intelligence and Learning/Definitions/Learning task.md",
-    "ELL409 - Machine Intelligence and Learning/Definitions/Machine Learning.md",
     "ELL/Definitions",
     "ELL",
     "Definitions",
