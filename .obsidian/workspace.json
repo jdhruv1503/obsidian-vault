@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/3. Learning methods for Classification - Concept Learning.md",
+                "file": "ELL409 - Machine Intelligence and Learning/2. Learning tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/3. Learning methods for Classification - Concept Learning.md",
+                "file": "ELL409 - Machine Intelligence and Learning/2. Learning tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/3. Learning methods for Classification - Concept Learning.md",
+                "file": "ELL409 - Machine Intelligence and Learning/2. Learning tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/3. Learning methods for Classification - Concept Learning.md"
+                "file": "ELL409 - Machine Intelligence and Learning/2. Learning tasks.md"
               }
             }
           }
@@ -148,29 +148,29 @@
   },
   "active": "cfd244009caaec65",
   "lastOpenFiles": [
-    "ELL409 - Machine Intelligence and Learning/2. Learning tasks.md",
-    "ELL409 - Machine Intelligence and Learning/3. Learning methods for Classification - Concept Learning.md",
-    "ELL409 - Machine Intelligence and Learning/5. Evaluation.md",
     "ELL409 - Machine Intelligence and Learning/1. Terminologies.md",
+    "ELL409 - Machine Intelligence and Learning/Images/Pasted image 20240812040737.png",
+    "ELL409 - Machine Intelligence and Learning/3. Learning methods for Classification - Concept Learning.md",
+    "ELL409 - Machine Intelligence and Learning/2. Learning tasks.md",
+    "ELL409 - Machine Intelligence and Learning/5. Evaluation.md",
     "ELL409 - Machine Intelligence and Learning/Definitions/Inductive bias.md",
     "ELL409 - Machine Intelligence and Learning/Algorithms/Candidate elimination.md",
-    "Pasted image 20240812042644.png",
-    "Pasted image 20240812042632.png",
-    "Pasted image 20240812042616.png",
-    "Pasted image 20240812042603.png",
-    "Pasted image 20240812042519.png",
-    "Pasted image 20240812041945.png",
+    "ELL409 - Machine Intelligence and Learning/Images/Pasted image 20240812042644.png",
+    "ELL409 - Machine Intelligence and Learning/Images/Pasted image 20240812042632.png",
+    "ELL409 - Machine Intelligence and Learning/Images/Pasted image 20240812042616.png",
+    "ELL409 - Machine Intelligence and Learning/Images/Pasted image 20240812042603.png",
+    "ELL409 - Machine Intelligence and Learning/Images/Pasted image 20240812042519.png",
+    "ELL409 - Machine Intelligence and Learning/Images/Pasted image 20240812041945.png",
     "ELL409 - Machine Intelligence and Learning/Algorithms/List-then-Eliminate.md",
-    "Pasted image 20240812041723.png",
+    "ELL409 - Machine Intelligence and Learning/Images/Pasted image 20240812041723.png",
     "ELL409 - Machine Intelligence and Learning/Materials/Concept Learning - Mitchell.ch2.pdf",
     "ELL409 - Machine Intelligence and Learning/Materials",
     "ELL409 - Machine Intelligence and Learning/New folder",
     "HUL258 - Social and Political Philosophy/Socrates/The Sophists.md",
     "ELL409 - Machine Intelligence and Learning/Definitions/Version space.md",
-    "Pasted image 20240812041302.png",
+    "ELL409 - Machine Intelligence and Learning/Images/Pasted image 20240812041302.png",
     "ELL409 - Machine Intelligence and Learning/Algorithms",
     "ELL409 - Machine Intelligence and Learning/Algorithms/Find-S algorithm.md",
-    "Pasted image 20240812040737.png",
     "ELL409 - Machine Intelligence and Learning/Images/Pasted image 20240812040618.png",
     "ELL409 - Machine Intelligence and Learning/Images",
     "HUL258 - Social and Political Philosophy/Rawls and Nozick.md",
@@ -188,7 +188,6 @@
     "ELL409 - Machine Intelligence and Learning/Clustering or unsupervised learning.md",
     "ELL409 - Machine Intelligence and Learning/Regression.md",
     "ELL409 - Machine Intelligence and Learning/Precision and recall.md",
-    "heuristic based.md",
     "Clustering",
     "ELL/Definitions",
     "ELL",
