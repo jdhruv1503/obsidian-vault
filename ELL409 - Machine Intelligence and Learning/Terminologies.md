@@ -1,4 +1,11 @@
 
 ![[Algorithm]]
 
-![[Bl]]
+![[Learning task]]
+
+![[Blackbox and Whitebox Models]]
+
+![[Dataset terminology]]
+
+![[Variables]]
+
