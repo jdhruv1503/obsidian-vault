@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/Definitions/Variables.md",
+                "file": "ELL409 - Machine Intelligence and Learning/Terminologies.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/Definitions/Variables.md",
+                "file": "ELL409 - Machine Intelligence and Learning/Terminologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/Definitions/Variables.md",
+                "file": "ELL409 - Machine Intelligence and Learning/Terminologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/Definitions/Variables.md"
+                "file": "ELL409 - Machine Intelligence and Learning/Terminologies.md"
               }
             }
           }
@@ -198,11 +198,11 @@
   "active": "7dbd60c9ebd8dcdd",
   "lastOpenFiles": [
     "ELL409 - Machine Intelligence and Learning/Definitions/Dataset terminology.md",
+    "ELL409 - Machine Intelligence and Learning/Definitions/Variables.md",
     "ELL409 - Machine Intelligence and Learning/Definitions/Learning task.md",
     "ELL409 - Machine Intelligence and Learning/Terminologies.md",
     "ELL409 - Machine Intelligence and Learning/Definitions/Machine Learning.md",
     "ELL409 - Machine Intelligence and Learning/Definitions/Categorical variable.md",
-    "ELL409 - Machine Intelligence and Learning/Definitions/Variables.md",
     "ELL409 - Machine Intelligence and Learning/Definitions/Continuous variable.md",
     "ELL409 - Machine Intelligence and Learning/Definitions/Discrete variable.md",
     "ELL409 - Machine Intelligence and Learning/Definitions/Blackbox and Whitebox Models.md",
