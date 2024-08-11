@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/4. Evaluation.md",
+                "file": "Error scores for regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/4. Evaluation.md",
+                "file": "Error scores for regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/4. Evaluation.md",
+                "file": "Error scores for regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/4. Evaluation.md"
+                "file": "Error scores for regression.md"
               }
             }
           }
@@ -197,11 +197,12 @@
   },
   "active": "7dbd60c9ebd8dcdd",
   "lastOpenFiles": [
+    "ELL409 - Machine Intelligence and Learning/4. Evaluation.md",
+    "Error scores for regression.md",
     "ELL409 - Machine Intelligence and Learning/3. Learning methods.md",
     "ELL409 - Machine Intelligence and Learning/Classification.md",
     "ELL409 - Machine Intelligence and Learning/F-scores.md",
     "ELL409 - Machine Intelligence and Learning/1_Z54JgbS4DUwWSknhDCvNTQ.png",
-    "ELL409 - Machine Intelligence and Learning/4. Evaluation.md",
     "ELL409 - Machine Intelligence and Learning/Confusion matrix.md",
     "ELL409 - Machine Intelligence and Learning/Clustering or unsupervised learning.md",
     "ELL409 - Machine Intelligence and Learning/Regression.md",
