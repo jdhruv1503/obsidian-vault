@@ -18,3 +18,4 @@ is guaranteed to output all hypotheses consistent with the training data. Unfort
 nately, it requires exhaustively enumerating all hypotheses in H-an unrealistic
 requirement for all but the most trivial hypothesis spaces.
 
+![[Pasted image 20240812041723.png]]
