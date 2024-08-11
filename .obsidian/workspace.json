@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "heuristic based.md",
+                "file": "ELL409 - Machine Intelligence and Learning/Confusion matrix.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "heuristic based.md",
+                "file": "ELL409 - Machine Intelligence and Learning/Confusion matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "heuristic based.md",
+                "file": "ELL409 - Machine Intelligence and Learning/Confusion matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "heuristic based.md"
+                "file": "ELL409 - Machine Intelligence and Learning/Confusion matrix.md"
               }
             }
           }
@@ -197,6 +197,8 @@
   },
   "active": "7dbd60c9ebd8dcdd",
   "lastOpenFiles": [
+    "ELL409 - Machine Intelligence and Learning/4. Evaluation.md",
+    "ELL409 - Machine Intelligence and Learning/Confusion matrix.md",
     "ELL409 - Machine Intelligence and Learning/Clustering or unsupervised learning.md",
     "heuristic based.md",
     "ELL409 - Machine Intelligence and Learning/3. Learning methods.md",
@@ -227,8 +229,6 @@
     "ELL409 - Machine Intelligence and Learning",
     "How to Value a Company.md",
     "HUL258 - Social and Political Philosophy/Social Contract Theory.md",
-    "HUL258 - Social and Political Philosophy/Foucault.md",
-    "HUL258 - Social and Political Philosophy/Machiavelli/Machiavelli.md",
     "HUL258 - Social and Political Philosophy/Plato",
     "HUL258 - Social and Political Philosophy/Nietzsche",
     "HUL258 - Social and Political Philosophy/Machiavelli",
