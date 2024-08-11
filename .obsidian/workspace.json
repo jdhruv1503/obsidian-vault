@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/Algorithms/List-then-Eliminate.md",
+                "file": "ELL409 - Machine Intelligence and Learning/Algorithms/Candidate elimination.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/Algorithms/List-then-Eliminate.md",
+                "file": "ELL409 - Machine Intelligence and Learning/Algorithms/Candidate elimination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/Algorithms/List-then-Eliminate.md",
+                "file": "ELL409 - Machine Intelligence and Learning/Algorithms/Candidate elimination.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/Algorithms/List-then-Eliminate.md"
+                "file": "ELL409 - Machine Intelligence and Learning/Algorithms/Candidate elimination.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "cfd244009caaec65",
   "lastOpenFiles": [
+    "ELL409 - Machine Intelligence and Learning/Algorithms/List-then-Eliminate.md",
     "Pasted image 20240812041723.png",
     "ELL409 - Machine Intelligence and Learning/3. Learning methods.md",
-    "ELL409 - Machine Intelligence and Learning/Algorithms/List-then-Eliminate.md",
     "ELL409 - Machine Intelligence and Learning/Materials/Concept Learning - Mitchell.ch2.pdf",
     "ELL409 - Machine Intelligence and Learning/Materials",
     "ELL409 - Machine Intelligence and Learning/New folder",
