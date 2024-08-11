@@ -9,3 +9,6 @@ resents the version space by storing only its most general members (labeled $G$)
 
 ![[Pasted image 20240812041945.png]]
 
+Then,
+
+![[Pasted image 20240812042519.png]]
