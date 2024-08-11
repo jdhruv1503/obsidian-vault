@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "F-scores.md",
+                "file": "ELL409 - Machine Intelligence and Learning/4. Evaluation.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "F-scores.md",
+                "file": "ELL409 - Machine Intelligence and Learning/4. Evaluation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "F-scores.md",
+                "file": "ELL409 - Machine Intelligence and Learning/4. Evaluation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "F-scores.md"
+                "file": "ELL409 - Machine Intelligence and Learning/4. Evaluation.md"
               }
             }
           }
@@ -197,16 +197,16 @@
   },
   "active": "7dbd60c9ebd8dcdd",
   "lastOpenFiles": [
+    "ELL409 - Machine Intelligence and Learning/3. Learning methods.md",
+    "ELL409 - Machine Intelligence and Learning/Classification.md",
+    "ELL409 - Machine Intelligence and Learning/F-scores.md",
+    "ELL409 - Machine Intelligence and Learning/1_Z54JgbS4DUwWSknhDCvNTQ.png",
     "ELL409 - Machine Intelligence and Learning/4. Evaluation.md",
-    "F-scores.md",
     "ELL409 - Machine Intelligence and Learning/Confusion matrix.md",
     "ELL409 - Machine Intelligence and Learning/Clustering or unsupervised learning.md",
-    "ELL409 - Machine Intelligence and Learning/Classification.md",
     "ELL409 - Machine Intelligence and Learning/Regression.md",
     "Precision and recall.md",
-    "1_Z54JgbS4DUwWSknhDCvNTQ.png",
     "heuristic based.md",
-    "ELL409 - Machine Intelligence and Learning/3. Learning methods.md",
     "Clustering/unsupervised learning.md",
     "Clustering",
     "ELL409 - Machine Intelligence and Learning/2. Learning tasks.md",
@@ -226,7 +226,6 @@
     "ELL/Definitions/Learning task.md",
     "ELL/Definitions",
     "ELL",
-    "Definitions/Learning task.md",
     "Definitions",
     "ELL409 - Machine Intelligence and Learning/Definitions",
     "ELL409 - Machine Intelligence and Learning",
