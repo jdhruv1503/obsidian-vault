@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/3. Learning methods.md",
+                "file": "ELL409 - Machine Intelligence and Learning/Definitions/Hasse diagram.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/3. Learning methods.md",
+                "file": "ELL409 - Machine Intelligence and Learning/Definitions/Hasse diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/3. Learning methods.md",
+                "file": "ELL409 - Machine Intelligence and Learning/Definitions/Hasse diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/3. Learning methods.md"
+                "file": "ELL409 - Machine Intelligence and Learning/Definitions/Hasse diagram.md"
               }
             }
           }
@@ -195,15 +195,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7dbd60c9ebd8dcdd",
+  "active": "8426297dd5e0e138",
   "lastOpenFiles": [
+    "ELL409 - Machine Intelligence and Learning/3. Learning methods.md",
+    "ELL409 - Machine Intelligence and Learning/Definitions/Hasse diagram.md",
+    "Pasted image 20240812040516.png",
     "ELL409 - Machine Intelligence and Learning/2. Learning tasks.md",
     "ELL409 - Machine Intelligence and Learning/1. Terminologies.md",
     "ELL409 - Machine Intelligence and Learning/Definitions/Hypothesis space.md",
     "ELL409 - Machine Intelligence and Learning/Definitions/Hypothesis.md",
     "ELL409 - Machine Intelligence and Learning/1_Z54JgbS4DUwWSknhDCvNTQ.png",
     "ELL409 - Machine Intelligence and Learning/Definitions/Target concept (c).md",
-    "ELL409 - Machine Intelligence and Learning/3. Learning methods.md",
     "HUL258 - Social and Political Philosophy/Socrates/The Sophists.md",
     "How to Value a Company.md",
     "HUL258 - Social and Political Philosophy/Social Contract Theory.md",
@@ -224,7 +226,6 @@
     "HUL258 - Social and Political Philosophy/Schmitt.md",
     "ELL409 - Machine Intelligence and Learning/Definitions/Dataset terminology.md",
     "ELL409 - Machine Intelligence and Learning/Definitions/Variables.md",
-    "ELL409 - Machine Intelligence and Learning/Definitions/Learning task.md",
     "ELL/Definitions",
     "ELL",
     "Definitions",
