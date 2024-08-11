@@ -7,3 +7,5 @@ with the observation
 The CANDIDATE-ELIMINATION algorithm rep-
 resents the version space by storing only its most general members (labeled $G$) and its most specific (labeled $S$ ).
 
+![[Pasted image 20240812041945.png]]
+
