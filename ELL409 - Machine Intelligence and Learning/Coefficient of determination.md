@@ -7,6 +7,6 @@ The variability of the data set can be measured with two [sums of squares](https
 
 - The [total sum of squares](https://en.wikipedia.org/wiki/Total_sum_of_squares "Total sum of squares") (proportional to the [variance](https://en.wikipedia.org/wiki/Variance "Variance") of the data): $SS_{\text{tot}}=\sum _{i}(y_{i}-{\bar {y}})^{2}$
 
-The most general definition of the coefficient of determination is  R^{2}=1-{SS_{\rm {res}} \over SS_{\rm {tot}}}$
+The most general definition of the coefficient of determination is  $R^{2}=1-{SS_{\rm {res}} \over SS_{\rm {tot}}}$
 
-In the best case, the modeled values exactly match the observed values, which results in S S res = 0 ![{\displaystyle SS_{\text{res}}=0}](https://wikimedia.org/api/rest_v1/media/math/render/svg/8d346fa0b307220ee37e11e0545b6a400e3b7006) and _R_2 = 1. A baseline model, which always predicts _y_, will have _R_2 = 0.
+In the best case, the modeled values exactly match the observed values, which results in $R_2 = 1$. A baseline model, which always predicts _y_, will have $R_2 = 0.$
