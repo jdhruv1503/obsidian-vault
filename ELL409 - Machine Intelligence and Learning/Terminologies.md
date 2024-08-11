@@ -1,2 +1,2 @@
 
-![[Definitions/Learning task]]
+![[Terminologies]]
