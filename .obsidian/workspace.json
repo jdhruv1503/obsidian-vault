@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/3. Learning methods.md",
+                "file": "ELL409 - Machine Intelligence and Learning/Algorithms/Candidate elimination.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/3. Learning methods.md",
+                "file": "ELL409 - Machine Intelligence and Learning/Algorithms/Candidate elimination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/3. Learning methods.md",
+                "file": "ELL409 - Machine Intelligence and Learning/Algorithms/Candidate elimination.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ELL409 - Machine Intelligence and Learning/3. Learning methods.md"
+                "file": "ELL409 - Machine Intelligence and Learning/Algorithms/Candidate elimination.md"
               }
             }
           }
@@ -159,9 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da78d92c03b93838",
+  "active": "8426297dd5e0e138",
   "lastOpenFiles": [
-    "Find-S algorithm.md",
+    "ELL409 - Machine Intelligence and Learning/3. Learning methods.md",
+    "ELL409 - Machine Intelligence and Learning/Algorithms/Candidate elimination.md",
+    "ELL409 - Machine Intelligence and Learning/Algorithms",
+    "ELL409 - Machine Intelligence and Learning/Algorithms/Find-S algorithm.md",
     "Pasted image 20240812040737.png",
     "ELL409 - Machine Intelligence and Learning/Images/Pasted image 20240812040618.png",
     "ELL409 - Machine Intelligence and Learning/Images/Pasted image 20240812040516.png",
@@ -170,7 +173,6 @@
     "HUL258 - Social and Political Philosophy/Rawls and Nozick.md",
     "How to Value a Company.md",
     "ELL409 - Machine Intelligence and Learning/Definitions/Hasse diagram.md",
-    "ELL409 - Machine Intelligence and Learning/3. Learning methods.md",
     "ELL409 - Machine Intelligence and Learning/2. Learning tasks.md",
     "ELL409 - Machine Intelligence and Learning/1. Terminologies.md",
     "ELL409 - Machine Intelligence and Learning/Definitions/Hypothesis space.md",
@@ -192,14 +194,12 @@
     "Clustering",
     "HUL258 - Social and Political Philosophy/HUL258.md",
     "HUL258 - Social and Political Philosophy/Schmitt.md",
-    "ELL409 - Machine Intelligence and Learning/Definitions/Dataset terminology.md",
     "ELL/Definitions",
     "ELL",
     "Definitions",
     "ELL409 - Machine Intelligence and Learning/Definitions",
     "ELL409 - Machine Intelligence and Learning",
     "HUL258 - Social and Political Philosophy/Plato",
-    "HUL258 - Social and Political Philosophy/Nietzsche",
-    "HUL258 - Social and Political Philosophy/Machiavelli"
+    "HUL258 - Social and Political Philosophy/Nietzsche"
   ]
 }
