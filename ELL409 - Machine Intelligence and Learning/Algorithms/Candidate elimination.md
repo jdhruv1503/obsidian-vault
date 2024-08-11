@@ -1,4 +1,6 @@
 
-• Outputs a description of the set of all hypotheses consistent with the
-training set
+
+• CANDIDATE-ELIMINATION generates set of all hypotheses consistent
+with the observation
+• This set is called [[Version space]]
 
