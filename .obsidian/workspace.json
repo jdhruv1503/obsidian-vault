@@ -59,8 +59,12 @@
             "id": "7dbd60c9ebd8dcdd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ELL409 - Machine Intelligence and Learning/Learning tasks.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -130,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ELL409 - Machine Intelligence and Learning/Learning tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ELL409 - Machine Intelligence and Learning/Learning tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ELL409 - Machine Intelligence and Learning/Learning tasks.md"
+              }
             }
           }
         ]
@@ -189,6 +197,7 @@
   },
   "active": "7dbd60c9ebd8dcdd",
   "lastOpenFiles": [
+    "ELL409 - Machine Intelligence and Learning/Learning tasks.md",
     "ELL409 - Machine Intelligence and Learning/Terminologies.md",
     "ELL409 - Machine Intelligence and Learning/Definitions/Dataset terminology.md",
     "ELL409 - Machine Intelligence and Learning/Definitions/Variables.md",
@@ -219,7 +228,6 @@
     "HUL258 - Social and Political Philosophy/Plato/Kallipolis.md",
     "HUL258 - Social and Political Philosophy/Nietzsche/├£bermensch.md",
     "HUL258 - Social and Political Philosophy/Socrates/Trial and Death.md",
-    "HUL258 - Social and Political Philosophy/Nietzsche/Will to power.md",
     "HUL258 - Social and Political Philosophy/Plato",
     "HUL258 - Social and Political Philosophy/Nietzsche",
     "HUL258 - Social and Political Philosophy/Machiavelli",
