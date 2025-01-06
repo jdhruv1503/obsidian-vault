@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/ELL409 - Machine Intelligence and Learning/5. Evaluation.md",
+                "file": "Courses/ELLxxx - CAD for VLSI Design/Textbooks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Evaluation"
+              "title": "Textbooks"
             }
           }
         ]
@@ -162,16 +162,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8426297dd5e0e138",
+  "active": "cfd244009caaec65",
   "lastOpenFiles": [
-    "Courses/ELLxxx -",
+    "Courses/ELL409 - Machine Intelligence and Learning/5. Evaluation.md",
+    "Courses/ELLxxx - CAD for VLSI Design/Textbooks.md",
+    "Courses/ELLxxx - CAD for VLSI Design",
     "Courses",
     "Courses/ELL409 - Machine Intelligence and Learning/3. Learning methods for Classification - Concept Learning.md",
     "Courses/ELL409 - Machine Intelligence and Learning/Materials/MachineLearningTomMitchell.pdf",
     "Courses/ELL409 - Machine Intelligence and Learning/2. Learning tasks.md",
     "Courses/ELL409 - Machine Intelligence and Learning/1. Terminologies.md",
     "Courses/ELL409 - Machine Intelligence and Learning/Images/Pasted image 20240812040737.png",
-    "Courses/ELL409 - Machine Intelligence and Learning/5. Evaluation.md",
     "Courses/ELL409 - Machine Intelligence and Learning/Definitions/Inductive bias.md",
     "Courses/ELL409 - Machine Intelligence and Learning/Algorithms/Candidate elimination.md",
     "Courses/ELL409 - Machine Intelligence and Learning/Images/Pasted image 20240812042644.png",
@@ -208,7 +209,6 @@
     "Courses/ELL409 - Machine Intelligence and Learning/Regression.md",
     "Courses/ELL409 - Machine Intelligence and Learning/Precision and recall.md",
     "Clustering",
-    "ELL/Definitions",
-    "ELL"
+    "ELL/Definitions"
   ]
 }
