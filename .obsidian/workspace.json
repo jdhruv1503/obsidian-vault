@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/ELLxxx - CAD for VLSI Design/Textbooks.md",
+                "file": "Courses/ELLxxx - CAD for VLSI Design/Grading.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Textbooks"
+              "title": "Grading"
             }
           }
         ]
@@ -164,8 +164,9 @@
   },
   "active": "cfd244009caaec65",
   "lastOpenFiles": [
-    "Courses/ELL409 - Machine Intelligence and Learning/2. Learning tasks.md",
     "Courses/ELLxxx - CAD for VLSI Design/Textbooks.md",
+    "Courses/ELLxxx - CAD for VLSI Design/Grading.md",
+    "Courses/ELL409 - Machine Intelligence and Learning/2. Learning tasks.md",
     "Courses/ELL409 - Machine Intelligence and Learning/5. Evaluation.md",
     "Courses/ELLxxx - CAD for VLSI Design",
     "Courses",
@@ -207,7 +208,6 @@
     "Courses/ELL409 - Machine Intelligence and Learning/Confusion matrix.md",
     "Courses/ELL409 - Machine Intelligence and Learning/Clustering or unsupervised learning.md",
     "Courses/ELL409 - Machine Intelligence and Learning/Regression.md",
-    "Courses/ELL409 - Machine Intelligence and Learning/Precision and recall.md",
     "Clustering",
     "ELL/Definitions"
   ]
