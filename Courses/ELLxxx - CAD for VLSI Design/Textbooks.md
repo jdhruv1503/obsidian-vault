@@ -1,3 +1,3 @@
 
 Weste, Escherigan - CMOS VLSI Design
-Jan Rabaey - Digital 
+Jan Rabaey - Digital Integrated Circuits
