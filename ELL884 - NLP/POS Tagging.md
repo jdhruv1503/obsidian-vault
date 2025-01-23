@@ -62,7 +62,7 @@ Take a string of words and a tagset. Automatically assign a tag (DISAMBIGUATE)
 
 Few ways:
 
-- *Rule-based* taggers: Use a dict to assign potential POS to words; use handwritten disambiguation rules to narrow down. e.g. 
+- *Rule-based* taggers: Use a dict to assign potential POS to words; use handwritten disambiguation rules to narrow down. e.g. ENGTWOL tagger (1995)
 - *Stochastic* taggers:
 - *Hybrid* taggers: i.e. Brill tagger
 
