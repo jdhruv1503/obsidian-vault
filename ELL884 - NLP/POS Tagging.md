@@ -42,3 +42,13 @@ Also called - Word classes, Morphological class, Lexical tag
 
 ## Closed classes
 
+- Prepositions
+- Determiner
+- Pronoun
+- Conjunctions
+- Auxilary verbs
+- Numerals
+- Interjections
+- Negations
+- Politeness markers
+- Greetings
