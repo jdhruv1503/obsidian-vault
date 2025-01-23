@@ -16,5 +16,14 @@ Also called - Word classes, Morphological class, Lexical tag
 
 ### Broad subcategories
 
-- *Closed class*: Prepositions e
+- *Closed class*: Prepositions etc. Mostly stay the same
 - *Open class*: Whose entities can be expanded
+
+### Nouns (open)
+
+- Proper
+- Common (countable or mass)
+
+### Verb (open)
+
+- 
