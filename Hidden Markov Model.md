@@ -6,6 +6,8 @@ A weighted FSM with probabilities on the arcs. All outbound $P$ must sum to 1.
 *Hidden Markov Model*: States are hidden! We don't know what state we're in
 
 $$
-Q=q_1,q_2... states \\
+Q=q_1,q_2... states
 A=a_{11}, a_{12}... \text{transition probablility matrix}
+
 $$
+
