@@ -60,11 +60,11 @@ Take a string of words and a tagset. Automatically assign a tag (DISAMBIGUATE)
 
 # The solutions
 
-Two ways:
+Few ways:
 
-- *Rule-based* taggers:
+- *Rule-based* taggers: Use a dict to assign potential POS to words; use handwritten disambiguation rules to narrow down. e.g. 
 - *Stochastic* taggers:
-- 
+- *Hybrid* taggers: i.e. Brill tagger
 
 ## TODO
 
