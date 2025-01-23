@@ -58,7 +58,13 @@ Also called - Word classes, Morphological class, Lexical tag
 
 Take a string of words and a tagset. Automatically assign a tag (DISAMBIGUATE)
 
+# The solutions
 
+Two ways:
+
+- *Rule-based* taggers:
+- *Stochastic* taggers:
+- 
 
 ## TODO
 
