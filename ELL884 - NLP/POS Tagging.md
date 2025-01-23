@@ -26,4 +26,13 @@ Also called - Word classes, Morphological class, Lexical tag
 
 ### Verb (open)
 
-- 
+- Doing
+
+### Adjectives (open)
+
+- Desw
+
+### Adverb (open)
+
+- Modify things (often verbs)
+- Directional, degree, manner, temporal
