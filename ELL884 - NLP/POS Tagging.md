@@ -54,6 +54,10 @@ Also called - Word classes, Morphological class, Lexical tag
 - Politeness markers
 - Greetings
 
+# The task
+
+Take a string of words and a tagset. Automatically assign a tag
+
 ## TODO
 
 Stanford POS tagger
