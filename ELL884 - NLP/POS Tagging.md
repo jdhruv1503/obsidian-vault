@@ -53,3 +53,7 @@ Also called - Word classes, Morphological class, Lexical tag
 - Negations
 - Politeness markers
 - Greetings
+
+## TODO
+
+Stanford POS tagger
