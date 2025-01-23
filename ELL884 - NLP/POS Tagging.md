@@ -14,3 +14,7 @@ Also called - Word classes, Morphological class, Lexical tag
 |C7 tagset | 146 classes |
 |---|---|
 
+### Broad subcategories
+
+- *Closed class*: Prepositions e
+- *Open class*: Whose entities can be expanded
