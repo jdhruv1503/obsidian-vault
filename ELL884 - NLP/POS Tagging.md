@@ -56,7 +56,9 @@ Also called - Word classes, Morphological class, Lexical tag
 
 # The task
 
-Take a string of words and a tagset. Automatically assign a tag
+Take a string of words and a tagset. Automatically assign a tag (DISAMBIGUATE)
+
+
 
 ## TODO
 
