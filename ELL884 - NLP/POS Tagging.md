@@ -19,6 +19,9 @@ Also called - Word classes, Morphological class, Lexical tag
 - *Closed class*: Prepositions etc. Mostly stay the same
 - *Open class*: Whose entities can be expanded
 
+
+## Open classes
+
 ### Nouns (open)
 
 - Proper
@@ -30,9 +33,12 @@ Also called - Word classes, Morphological class, Lexical tag
 
 ### Adjectives (open)
 
-- Desw
+- Describe stuff
 
 ### Adverb (open)
 
 - Modify things (often verbs)
 - Directional, degree, manner, temporal
+
+## Closed classes
+
