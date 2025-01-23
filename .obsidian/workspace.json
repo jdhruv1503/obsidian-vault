@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/ELLxxx - CAD for VLSI Design/Grading.md",
+                "file": "ELL884 - NLP/POS Tagging.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grading"
+              "title": "POS Tagging"
             }
           }
         ]
@@ -164,8 +164,10 @@
   },
   "active": "cfd244009caaec65",
   "lastOpenFiles": [
-    "Courses/ELLxxx - CAD for VLSI Design/Textbooks.md",
     "Courses/ELLxxx - CAD for VLSI Design/Grading.md",
+    "ELL884 - NLP/POS Tagging.md",
+    "ELL884 - NLP",
+    "Courses/ELLxxx - CAD for VLSI Design/Textbooks.md",
     "Courses/ELL409 - Machine Intelligence and Learning/2. Learning tasks.md",
     "Courses/ELL409 - Machine Intelligence and Learning/5. Evaluation.md",
     "Courses/ELLxxx - CAD for VLSI Design",
@@ -207,8 +209,6 @@
     "Courses/ELL409 - Machine Intelligence and Learning/F-scores.md",
     "Courses/ELL409 - Machine Intelligence and Learning/Confusion matrix.md",
     "Courses/ELL409 - Machine Intelligence and Learning/Clustering or unsupervised learning.md",
-    "Courses/ELL409 - Machine Intelligence and Learning/Regression.md",
-    "Clustering",
-    "ELL/Definitions"
+    "Clustering"
   ]
 }
