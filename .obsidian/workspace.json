@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ELL884 - NLP/POS Tagging.md",
+                "file": "Configs and Snippets/Homelab Configuration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "POS Tagging"
+              "title": "Homelab Configuration"
             }
           }
         ],
@@ -180,8 +180,10 @@
   },
   "active": "b0e3307c071bde9b",
   "lastOpenFiles": [
-    "Hidden Markov Model.md",
     "ELL884 - NLP/POS Tagging.md",
+    "Configs and Snippets/Homelab Configuration.md",
+    "Configs and Snippets",
+    "Hidden Markov Model.md",
     "Courses/ELLxxx - CAD for VLSI Design/Grading.md",
     "ELL884 - NLP",
     "Courses/ELLxxx - CAD for VLSI Design/Textbooks.md",
@@ -223,8 +225,6 @@
     "Courses/ELL409 - Machine Intelligence and Learning/Coefficient of determination.md",
     "Courses/ELL409 - Machine Intelligence and Learning/Classification.md",
     "Courses/ELL409 - Machine Intelligence and Learning/Error scores for regression.md",
-    "Courses/ELL409 - Machine Intelligence and Learning/F-scores.md",
-    "Courses/ELL409 - Machine Intelligence and Learning/Confusion matrix.md",
-    "Clustering"
+    "Courses/ELL409 - Machine Intelligence and Learning/F-scores.md"
   ]
 }
