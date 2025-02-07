@@ -20,3 +20,7 @@ Use apt to uninstall gnome-* and libreoffice
 Autoboot: Change autoboot in bios settings so it auto reboots on software package
 
 Now I set up networking WPA enterprise using networkmanager
+Reboot
+
+Now i install official Docker package and then set up ngrok. I run ngrok port 22 through a screen
+This lets me ssh from anywhere!
