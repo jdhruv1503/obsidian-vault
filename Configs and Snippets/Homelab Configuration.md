@@ -32,3 +32,4 @@ Installed nvidia-driver to remove error message
 [28640.935630] nouveau 0000:01:00.0: bus: MMIO read of 00000000 FAULT at 6013d4 [ IBUS ]
 ```
 
+Weirdly I had to add con
