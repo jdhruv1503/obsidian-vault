@@ -6,3 +6,7 @@ Use expert mode to get more options to set up a minimal install
 Use guided partitioning but then edit the partition table to set up a 16G swap space
 - Image for partition table
 
+Fairly standard: create users
+Use phone hotspot as I can't connect to the institute WIFI with the inbuilt networkmanager
+
+Then deselect EVE
