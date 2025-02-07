@@ -17,3 +17,6 @@ add user to sudoers file
 Modify sources.list to comment out the CDROM image as a source
 Use apt to install openssh-server, nano
 Use apt to uninstall gnome-* and libreoffice
+Autoboot: Change autoboot in bios settings so it auto reboots on software package
+
+Now I set up networking WPA enterprise using networkmanager
