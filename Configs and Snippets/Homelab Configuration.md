@@ -14,5 +14,6 @@ Let it download and install
 
 It installed Gnome for some reason, lol
 add user to sudoers file
+Modify source
 Use apt to install openssh-server, nano
 Use apt to uninstall gnome 
