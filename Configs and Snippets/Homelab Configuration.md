@@ -27,3 +27,4 @@ This lets me ssh from anywhere!
 
 Disable internal keyboard its useless: GRUB_CMDLINE_LINUX_DEFAULT="quiet i8042.nokbd"
 
+Installed nvidia-driver to remove error
