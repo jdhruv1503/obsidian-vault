@@ -25,3 +25,5 @@ Reboot
 Now i install official Docker package and then set up ngrok. I run ngrok port 22 through a screen
 This lets me ssh from anywhere!
 
+Disable internal keyboard its useless: GRUB_CMDLINE_LINUX_DEFAULT="quiet i8042.nokbd"
+
