@@ -9,4 +9,6 @@ Use guided partitioning but then edit the partition table to set up a 16G swap s
 Fairly standard: create users
 Use phone hotspot as I can't connect to the institute WIFI with the inbuilt networkmanager
 
-Then deselect EVE
+Then deselect EVERYTHING except for Debian - I'll manually install components later
+Let it download and install
+
