@@ -27,4 +27,8 @@ This lets me ssh from anywhere!
 
 Disable internal keyboard its useless: GRUB_CMDLINE_LINUX_DEFAULT="quiet i8042.nokbd"
 
-Installed nvidia-driver to remove error
+Installed nvidia-driver to remove error message
+```
+[28640.935630] nouveau 0000:01:00.0: bus: MMIO read of 00000000 FAULT at 6013d4 [ IBUS ]
+```
+
