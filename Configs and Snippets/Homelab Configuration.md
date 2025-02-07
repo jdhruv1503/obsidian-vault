@@ -24,3 +24,4 @@ Reboot
 
 Now i install official Docker package and then set up ngrok. I run ngrok port 22 through a screen
 This lets me ssh from anywhere!
+
