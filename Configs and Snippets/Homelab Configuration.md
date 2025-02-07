@@ -12,3 +12,4 @@ Use phone hotspot as I can't connect to the institute WIFI with the inbuilt netw
 Then deselect EVERYTHING except for Debian - I'll manually install components later
 Let it download and install
 
+It installed Gnomm
