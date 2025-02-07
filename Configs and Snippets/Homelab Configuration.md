@@ -14,6 +14,6 @@ Let it download and install
 
 It installed Gnome for some reason, lol
 add user to sudoers file
-Modify source
+Modify sources.list to comment out the CDROM image as a source
 Use apt to install openssh-server, nano
-Use apt to uninstall gnome 
+Use apt to uninstall gnome-* and libreoffice
