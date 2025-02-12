@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configs and Snippets/Homelab Configuration.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homelab Configuration"
+              "title": "Untitled"
             }
           }
         ],
@@ -180,8 +180,9 @@
   },
   "active": "b0e3307c071bde9b",
   "lastOpenFiles": [
-    "ELL884 - NLP/POS Tagging.md",
     "Configs and Snippets/Homelab Configuration.md",
+    "Untitled.md",
+    "ELL884 - NLP/POS Tagging.md",
     "Configs and Snippets",
     "Hidden Markov Model.md",
     "Courses/ELLxxx - CAD for VLSI Design/Grading.md",
@@ -224,7 +225,6 @@
     "Courses/HUL258 - Social and Political Philosophy/Social Contract Theory.md",
     "Courses/ELL409 - Machine Intelligence and Learning/Coefficient of determination.md",
     "Courses/ELL409 - Machine Intelligence and Learning/Classification.md",
-    "Courses/ELL409 - Machine Intelligence and Learning/Error scores for regression.md",
-    "Courses/ELL409 - Machine Intelligence and Learning/F-scores.md"
+    "Courses/ELL409 - Machine Intelligence and Learning/Error scores for regression.md"
   ]
 }
