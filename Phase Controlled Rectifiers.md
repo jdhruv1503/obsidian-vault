@@ -39,4 +39,4 @@ $V_{rms} = \frac{V_{m}}{\sqrt{2}}\sqrt{1+ \frac{3\sqrt{3}}{2\pi}}$
 
 For currents, divide by $R_{L}$
 
-![[Pasted image 20250219013918.png]]
+	![[Pasted image 20250219013918.png]]
