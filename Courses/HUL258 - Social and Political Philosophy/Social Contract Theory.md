@@ -1,6 +1,4 @@
 
-Here is a 3000 word introduction to social contract theory, divided into sections on Hobbes, Locke, and Rousseau, with arguments for and against some of their key ideas:
-
 Social contract theory has been one of the most influential frameworks for understanding the legitimate foundations of political authority and obligation. Though there are various interpretations, the core idea is that the state derives its moral right to exercise power and issue laws from an implicit agreement or "contract" between members of society to coordinate their conduct under the sovereign authority of government.
 
 This conceptual device of an original social contract aims to justify political institutions by grounding them in the rational self-interest and consent of the governed rather than mere coercive force or divine right. In exchanging some personal freedoms, the contractors receive civil order, security, and State protection of their natural rights in return.

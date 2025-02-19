@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DC-DC conversion.md",
+                "file": "Courses/ELL332 - Electric Drives/DC motors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DC-DC conversion"
+              "title": "DC motors"
             }
           },
           {
@@ -206,29 +206,37 @@
   },
   "active": "d8abea242fca7468",
   "lastOpenFiles": [
+    "Pasted image 20250219083753.png",
+    "Courses/ELL332 - Electric Drives/DC-DC conversion.md",
+    "Courses/ELL332 - Electric Drives/Phase Controlled Rectifiers.md",
+    "Courses/ELL332 - Electric Drives/DC motors.md",
+    "Courses/ELLxxx - CAD for VLSI Design/Textbooks.md",
+    "Courses/ELLxxx - CAD for VLSI Design/Grading.md",
+    "Courses/HUL258 - Social and Political Philosophy/Social Contract Theory.md",
+    "Courses/HUL258 - Social and Political Philosophy/Rawls and Nozick.md",
+    "Courses/HUL258 - Social and Political Philosophy/Socrates/Socrates.md",
+    "Courses/HUL258 - Social and Political Philosophy/Socrates/The Sophists.md",
+    "Courses/HUL258 - Social and Political Philosophy/Socrates/Trial and Death.md",
+    "Courses/HUL258 - Social and Political Philosophy/Socrates/The unexamined life is not worth living.md",
+    "Courses/HUL258 - Social and Political Philosophy/Foucault.md",
+    "Courses/ELL332 - Electric Drives/Quiz 1.md",
+    "Pasted image 20250219083301.png",
+    "Pasted image 20250219083251.png",
     "Pasted image 20250219082810.png",
     "Pasted image 20250219082758.png",
     "Pasted image 20250219082319.png",
     "Pasted image 20250219082303.png",
-    "DC-DC conversion.md",
-    "Courses/ELL332 - Electric Drives/Quiz 1.md",
-    "Phase Controlled Rectifiers.md",
     "Pasted image 20250219013918.png",
     "Pasted image 20250219013803.png",
     "Pasted image 20250219013412.png",
     "Pasted image 20250219012926.png",
-    "Pasted image 20250219012853.png",
-    "Pasted image 20250219012629.png",
-    "Pasted image 20250219012332.png",
     "Courses/ELL332 - Electric Drives",
     "Cost function.md",
     "Configs and Snippets/Homelab Configuration.md",
     "ELL884 - NLP/POS Tagging.md",
     "Configs and Snippets",
     "Hidden Markov Model.md",
-    "Courses/ELLxxx - CAD for VLSI Design/Grading.md",
     "ELL884 - NLP",
-    "Courses/ELLxxx - CAD for VLSI Design/Textbooks.md",
     "Courses/ELL409 - Machine Intelligence and Learning/2. Learning tasks.md",
     "Courses/ELL409 - Machine Intelligence and Learning/5. Evaluation.md",
     "Courses/ELLxxx - CAD for VLSI Design",
@@ -242,15 +250,7 @@
     "Courses/ELL409 - Machine Intelligence and Learning/Materials/Concept Learning - Mitchell.ch2.pdf",
     "Courses/ELL409 - Machine Intelligence and Learning/Materials",
     "ELL409 - Machine Intelligence and Learning/New folder",
-    "Courses/HUL258 - Social and Political Philosophy/Socrates/The Sophists.md",
     "Courses/ELL409 - Machine Intelligence and Learning/Definitions/Version space.md",
-    "Courses/ELL409 - Machine Intelligence and Learning/Algorithms",
-    "Courses/ELL409 - Machine Intelligence and Learning/Algorithms/Find-S algorithm.md",
-    "Courses/HUL258 - Social and Political Philosophy/Rawls and Nozick.md",
-    "How to Value a Company.md",
-    "Courses/ELL409 - Machine Intelligence and Learning/Definitions/Hasse diagram.md",
-    "Courses/ELL409 - Machine Intelligence and Learning/Definitions/Hypothesis space.md",
-    "Courses/ELL409 - Machine Intelligence and Learning/Definitions/Hypothesis.md",
-    "Courses/ELL409 - Machine Intelligence and Learning/Definitions/Target concept (c).md"
+    "Courses/ELL409 - Machine Intelligence and Learning/Algorithms"
   ]
 }

@@ -1,5 +1,4 @@
-``
-Here is a 2500 word introduction to John Rawls and Robert Nozick's influential ideas on justice, including sections on Rawls' veil of ignorance and original position, as well as Nozick's critique, with arguments for and against some of the key points:
+
 
 John Rawls' A Theory of Justice reinvigorated political philosophy with its novel contractarian approach to formulating principles of social justice to regulate the basic structure of society. At the core of Rawls' theory is the idea of the "original position" - a thought experiment where rational individuals operate behind a "veil of ignorance" about their future socioeconomic status to derive fair principles for distributing rights, duties and social goods.
 
