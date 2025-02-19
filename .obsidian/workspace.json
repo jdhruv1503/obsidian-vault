@@ -41,24 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/ELL332 - Electric Drives/DC motors.md",
+                "file": "Courses/ELL332 - Electric Drives/Quiz 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DC motors"
-            }
-          },
-          {
-            "id": "8eb0cb234be6ac72",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "title": "Quiz 1"
             }
           }
         ],
@@ -206,13 +194,13 @@
   },
   "active": "d8abea242fca7468",
   "lastOpenFiles": [
+    "Courses/ELL332 - Electric Drives/Phase Controlled Rectifiers.md",
+    "Courses/ELL332 - Electric Drives/DC motors.md",
     "Pasted image 20250219085340.png",
     "Pasted image 20250219085200.png",
     "Pasted image 20250219085120.png",
     "Pasted image 20250219083753.png",
     "Courses/ELL332 - Electric Drives/DC-DC conversion.md",
-    "Courses/ELL332 - Electric Drives/Phase Controlled Rectifiers.md",
-    "Courses/ELL332 - Electric Drives/DC motors.md",
     "Courses/ELLxxx - CAD for VLSI Design/Textbooks.md",
     "Courses/ELLxxx - CAD for VLSI Design/Grading.md",
     "Courses/HUL258 - Social and Political Philosophy/Social Contract Theory.md",
@@ -229,7 +217,6 @@
     "Pasted image 20250219082758.png",
     "Pasted image 20250219082319.png",
     "Pasted image 20250219082303.png",
-    "Pasted image 20250219013918.png",
     "Courses/ELL332 - Electric Drives",
     "Cost function.md",
     "Configs and Snippets/Homelab Configuration.md",
