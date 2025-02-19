@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "8eb0cb234be6ac72",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
+          },
+          {
             "id": "eda3a81d43c89a00",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,7 +204,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0e3307c071bde9b",
+  "active": "8eb0cb234be6ac72",
   "lastOpenFiles": [
     "Courses/ELL332 - Electric Drives/Quiz 1.md",
     "Phase Controlled Rectifiers.md",
