@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phase Controlled Rectifiers.md",
+                "file": "Courses/ELL332 - Electric Drives/Quiz 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phase Controlled Rectifiers"
+              "title": "Quiz 1"
+            }
+          },
+          {
+            "id": "d8abea242fca7468",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DC-DC conversion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DC-DC conversion"
             }
           },
           {
@@ -48,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,10 +204,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0e3307c071bde9b",
+  "active": "d8abea242fca7468",
   "lastOpenFiles": [
-    "Phase Controlled Rectifiers.md",
+    "Pasted image 20250219082810.png",
+    "Pasted image 20250219082758.png",
+    "Pasted image 20250219082319.png",
+    "Pasted image 20250219082303.png",
+    "DC-DC conversion.md",
     "Courses/ELL332 - Electric Drives/Quiz 1.md",
+    "Phase Controlled Rectifiers.md",
     "Pasted image 20250219013918.png",
     "Pasted image 20250219013803.png",
     "Pasted image 20250219013412.png",
@@ -201,7 +220,6 @@
     "Pasted image 20250219012853.png",
     "Pasted image 20250219012629.png",
     "Pasted image 20250219012332.png",
-    "Pasted image 20250219012317.png",
     "Courses/ELL332 - Electric Drives",
     "Cost function.md",
     "Configs and Snippets/Homelab Configuration.md",
@@ -218,10 +236,8 @@
     "Courses/ELL409 - Machine Intelligence and Learning/3. Learning methods for Classification - Concept Learning.md",
     "Courses/ELL409 - Machine Intelligence and Learning/Materials/MachineLearningTomMitchell.pdf",
     "Courses/ELL409 - Machine Intelligence and Learning/1. Terminologies.md",
-    "Courses/ELL409 - Machine Intelligence and Learning/Images/Pasted image 20240812040737.png",
     "Courses/ELL409 - Machine Intelligence and Learning/Definitions/Inductive bias.md",
     "Courses/ELL409 - Machine Intelligence and Learning/Algorithms/Candidate elimination.md",
-    "Courses/ELL409 - Machine Intelligence and Learning/Images/Pasted image 20240812042644.png",
     "Courses/ELL409 - Machine Intelligence and Learning/Algorithms/List-then-Eliminate.md",
     "Courses/ELL409 - Machine Intelligence and Learning/Materials/Concept Learning - Mitchell.ch2.pdf",
     "Courses/ELL409 - Machine Intelligence and Learning/Materials",
@@ -235,7 +251,6 @@
     "Courses/ELL409 - Machine Intelligence and Learning/Definitions/Hasse diagram.md",
     "Courses/ELL409 - Machine Intelligence and Learning/Definitions/Hypothesis space.md",
     "Courses/ELL409 - Machine Intelligence and Learning/Definitions/Hypothesis.md",
-    "Courses/ELL409 - Machine Intelligence and Learning/Definitions/Target concept (c).md",
-    "Courses/HUL258 - Social and Political Philosophy/Social Contract Theory.md"
+    "Courses/ELL409 - Machine Intelligence and Learning/Definitions/Target concept (c).md"
   ]
 }
