@@ -6,3 +6,4 @@
 
 ![[Pasted image 20250219085340.png]]
 
+$\frac{E}{T} = \frac{\omega}{I_a}$
