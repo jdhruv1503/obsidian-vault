@@ -8,17 +8,13 @@ $V_{avg} = \frac{V_{s}}{\pi}$
 $V_{rms} = \frac{V_{s}}{2}$
 
 For currents, divide by $R_{L}$
-
-![[Pasted image 20250219012317.png]]
-
-![[Pasted image 20250219012332.png]]
-
 ### Full-wave
 
-![[Pasted image 20250219012629.png]]
-![[Pasted image 20250219012926.png]]
-![[Pasted image 20250219012853.png]]
+$V_{avg} = \frac{2V_{s}}{\pi}$
 
+$V_{rms} = \frac{V_{s}}{\sqrt{2}}$
+
+For currents, divide by $R_{L}$
 ## Three-Phase Uncontrolled
 
 ### Half-wave
@@ -29,14 +25,32 @@ $V_{av} = \frac{3\sqrt{3}V_{m}}{2\pi}$
 $V_{rms} = \frac{V_{m}}{\sqrt{2}}\sqrt{1+ \frac{3\sqrt{3}}{4\pi}}$
 
 For currents, divide by $R_{L}$
-
-![[Pasted image 20250219013412.png]]
-![[Pasted image 20250219013803.png]]
 ### Full-wave
 
 $V_{av} = \frac{3V_{m}}{\pi}$
 $V_{rms} = \frac{V_{m}}{\sqrt{2}}\sqrt{1+ \frac{3\sqrt{3}}{2\pi}}$
 
 For currents, divide by $R_{L}$
+## Controlled
 
-![[Pasted image 20250219013918.png]]
+### Single-phase controlled
+
+#### Half-wave
+
+Resistive: $V_{DC} = \frac{V_{m}}{\pi}(1+cos(\alpha))$
+Inductive: $V_{DC} = \frac{V_{m}}{\pi}(2cos(\alpha))$
+
+### Three-phase controlled
+
+All $V_{m}$ are line-line peak voltage
+#### Half-wave
+
+Resistive: $V_{DC} = \frac{3V_{m}}{2\pi}(cos(\alpha+30))$
+
+#### Full-wave half-control
+
+Resistive: $V_{DC} = \frac{3V_{m}}{2\pi}(1+cos(\alpha))$
+
+#### Full-wave full-control
+
+Resistive: $V_{DC} = \frac{3V_{m}}{\pi}(cos(\alpha))$
