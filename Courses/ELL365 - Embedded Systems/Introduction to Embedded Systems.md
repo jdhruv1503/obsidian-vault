@@ -1,5 +1,3 @@
-
-
 ### Definition
 
 - Embedded system: any device that includes a computer but is not itself a general-purpose computer.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/ELL365 - Embedded Systems/Software for Embedded Systems.md",
+                "file": "Courses/ELL365 - Embedded Systems/Microprocessors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Software for Embedded Systems"
+              "title": "Microprocessors"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/ELL365 - Embedded Systems/Microprocessors.md",
+                "file": "Courses/ELL884 - Deep Learning for Natural Language Processing/POS Tagging.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Microprocessors"
+              "title": "POS Tagging"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,53 +177,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8abea242fca7468",
+  "active": "b0e3307c071bde9b",
   "lastOpenFiles": [
-    "Pasted image 20250222050128.png",
-    "Pasted image 20250222045944.png",
-    "Courses/ELL365 - Embedded Systems/Power Aware Architecture.md",
-    "Courses/ELL365 - Embedded Systems/Microprocessors.md",
+    "Pasted image 20250222051024.png",
+    "Courses/ELL365 - Embedded Systems/Introduction to Embedded Systems.md",
+    "Courses/ELL365 - Embedded Systems/Course Policy.md",
     "Courses/ELL365 - Embedded Systems/Applications - Industrial.md",
+    "Courses/ELL365 - Embedded Systems/Images/Pasted image 20250222023204.png",
+    "Courses/ELL332 - Electric Drives/DC motors.md",
+    "Courses/ELL365 - Embedded Systems/Images",
+    "Courses/ELL332 - Electric Drives/Images/Pasted image 20250219085340.png",
+    "Courses/ELL332 - Electric Drives/Images/Pasted image 20250219085120.png",
+    "Courses/ELL332 - Electric Drives/Images/Pasted image 20250219085200.png",
+    "Courses/ELL332 - Electric Drives/Images/Pasted image 20250219083251.png",
+    "Courses/ELL332 - Electric Drives/Images/Pasted image 20250219012317.png",
+    "Courses/ELL332 - Electric Drives/Images",
+    "Courses/ELL332 - Electric Drives/Images/Pasted image 20250219012332.png",
+    "Courses/ELL332 - Electric Drives/Images/Pasted image 20250219083301.png",
+    "Courses/ELL332 - Electric Drives/Images/Pasted image 20250219082758.png",
+    "Courses/ELL365 - Embedded Systems/Software for Embedded Systems.md",
+    "Cost function.md",
+    "Courses/ELL884 - Deep Learning for Natural Language Processing/POS Tagging.md",
+    "Courses/ELL365 - Embedded Systems/Microprocessors.md",
+    "Courses/ELL365 - Embedded Systems/Images/Pasted image 20250222050430.png",
+    "Courses/ELL365 - Embedded Systems/Power Aware Architecture.md",
     "Courses/ELL365 - Embedded Systems/Applications - IoT.md",
     "Courses/ELL365 - Embedded Systems/Applications - Robotics.md",
     "Courses/ELL365 - Embedded Systems/Cloud vs. Edge Computing.md",
-    "Courses/ELL365 - Embedded Systems/Course Policy.md",
-    "Courses/ELL365 - Embedded Systems/Introduction to Embedded Systems.md",
-    "Courses/ELL365 - Embedded Systems/Software for Embedded Systems.md",
     "Courses/ELL365 - Embedded Systems/System Design.md",
     "Courses/HUL258 - Social and Political Philosophy/Socrates/The unexamined life is not worth living.md",
     "Courses/ELL332 - Electric Drives/Quiz 1.md",
     "Pasted.md",
-    "Pasted image 20250222043920.png",
-    "Pasted image 20250222043256.png",
-    "Pasted image 20250222043224.png",
-    "Pasted image 20250222042918.png",
-    "Pasted image 20250222042741.png",
-    "Pasted image 20250222041919.png",
-    "Pasted image 20250222041731.png",
-    "ELL884 - NLP/POS Tagging.md",
-    "Pasted image 20250219082303.png",
-    "Pasted image 20250222024209.png",
     "Courses/ELL365 - Embedded Systems",
     "Courses/ELL332 - Electric Drives/Phase Controlled Rectifiers.md",
-    "Courses/ELL332 - Electric Drives/DC motors.md",
     "Courses/ELL332 - Electric Drives/DC-DC conversion.md",
-    "Courses/ELLxxx - CAD for VLSI Design/Textbooks.md",
-    "Courses/ELLxxx - CAD for VLSI Design/Grading.md",
+    "Courses/ELL831 - CAD for VLSI Design/Textbooks.md",
+    "Courses/ELL831 - CAD for VLSI Design/Grading.md",
     "Courses/HUL258 - Social and Political Philosophy/Social Contract Theory.md",
     "Courses/HUL258 - Social and Political Philosophy/Rawls and Nozick.md",
     "Courses/HUL258 - Social and Political Philosophy/Socrates/Socrates.md",
     "Courses/HUL258 - Social and Political Philosophy/Socrates/The Sophists.md",
     "Courses/HUL258 - Social and Political Philosophy/Socrates/Trial and Death.md",
-    "Courses/HUL258 - Social and Political Philosophy/Foucault.md",
     "Courses/ELL332 - Electric Drives",
     "Configs and Snippets",
-    "ELL884 - NLP",
-    "Courses/ELLxxx - CAD for VLSI Design",
+    "Courses/ELL884 - Deep Learning for Natural Language Processing",
+    "Courses/ELL831 - CAD for VLSI Design",
     "Courses",
     "Courses/ELL409 - Machine Intelligence and Learning/Materials/MachineLearningTomMitchell.pdf",
-    "Courses/ELL409 - Machine Intelligence and Learning/Materials/Concept Learning - Mitchell.ch2.pdf",
-    "Courses/ELL409 - Machine Intelligence and Learning/Materials",
-    "ELL409 - Machine Intelligence and Learning/New folder"
+    "Courses/ELL409 - Machine Intelligence and Learning/Materials/Concept Learning - Mitchell.ch2.pdf"
   ]
 }
