@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/ELL365 - Embedded Systems/Microcontroller.md",
+                "file": "Courses/ELL365 - Embedded Systems/Microprocessors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Microcontroller"
+              "title": "Microprocessors"
             }
           }
         ],
@@ -194,8 +194,10 @@
   },
   "active": "d8abea242fca7468",
   "lastOpenFiles": [
+    "Pasted image 20250222024209.png",
+    "Pasted image 20250222024125.png",
     "Courses/ELL365 - Embedded Systems/System Design.md",
-    "Courses/ELL365 - Embedded Systems/Microcontroller.md",
+    "Courses/ELL365 - Embedded Systems/Microprocessors.md",
     "Pasted image 20250222023204.png",
     "Courses/ELL365 - Embedded Systems/Cloud vs. Edge Computing.md",
     "Courses/ELL365 - Embedded Systems/Applications - IoT.md",
@@ -225,7 +227,6 @@
     "Pasted image 20250219083251.png",
     "Pasted image 20250219082810.png",
     "Pasted image 20250219082758.png",
-    "Pasted image 20250219082319.png",
     "Courses/ELL332 - Electric Drives",
     "Cost function.md",
     "Configs and Snippets/Homelab Configuration.md",
@@ -233,7 +234,6 @@
     "Configs and Snippets",
     "Hidden Markov Model.md",
     "ELL884 - NLP",
-    "Courses/ELL409 - Machine Intelligence and Learning/2. Learning tasks.md",
     "Courses/ELLxxx - CAD for VLSI Design",
     "Courses",
     "Courses/ELL409 - Machine Intelligence and Learning/Materials/MachineLearningTomMitchell.pdf",
