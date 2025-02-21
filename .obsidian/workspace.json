@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cfd244009caaec65",
+            "id": "b0e3307c071bde9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,20 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Software for Embedded Systems"
-            }
-          },
-          {
-            "id": "b0e3307c071bde9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses/ELL332 - Electric Drives/Quiz 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Quiz 1"
             }
           },
           {
@@ -49,7 +35,8 @@
               "title": "Power Aware Architecture"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,15 +179,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cfd244009caaec65",
+  "active": "d8abea242fca7468",
   "lastOpenFiles": [
+    "Courses/ELL365 - Embedded Systems/Software for Embedded Systems.md",
+    "Courses/ELL332 - Electric Drives/Quiz 1.md",
+    "Pasted.md",
     "Pasted image 20250222043920.png",
     "Pasted image 20250222043256.png",
     "Pasted image 20250222043224.png",
     "Pasted image 20250222042918.png",
     "Pasted image 20250222042741.png",
     "Courses/ELL365 - Embedded Systems/Power Aware Architecture.md",
-    "Courses/ELL365 - Embedded Systems/Software for Embedded Systems.md",
     "Pasted image 20250222041919.png",
     "Pasted image 20250222041731.png",
     "ELL884 - NLP/POS Tagging.md",
@@ -208,14 +198,12 @@
     "Pasted image 20250222024209.png",
     "Pasted image 20250222024125.png",
     "Courses/ELL365 - Embedded Systems/System Design.md",
-    "Pasted image 20250222023204.png",
     "Courses/ELL365 - Embedded Systems/Cloud vs. Edge Computing.md",
     "Courses/ELL365 - Embedded Systems/Applications - IoT.md",
     "Courses/ELL365 - Embedded Systems/Introduction to Embedded Systems.md",
     "Courses/ELL365 - Embedded Systems/Applications - Robotics.md",
     "Courses/ELL365 - Embedded Systems/Applications - Industrial.md",
     "Courses/ELL365 - Embedded Systems/Course Policy.md",
-    "Courses/ELL332 - Electric Drives/Quiz 1.md",
     "Courses/ELL365 - Embedded Systems",
     "Courses/ELL332 - Electric Drives/Phase Controlled Rectifiers.md",
     "Courses/ELL332 - Electric Drives/DC motors.md",

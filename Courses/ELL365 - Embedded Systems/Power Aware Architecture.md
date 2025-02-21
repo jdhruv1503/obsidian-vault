@@ -1,206 +1,168 @@
+# Power and Energy in Processors
 
+- **Hotspots**: Power consumption is usually not distributed evenly, leading to hotspots.
+- **High Temperature**: High temperature increases leakage, which increases power consumption, further raising temperature.
+- **Smart Layout**: Separating hot units increases the processor’s power envelope (maximum power that can be dissipated using cooling technology).
+- **Bigger Systems**: Larger systems cool better and dissipate more power.
 
-Usually not distributed evenly: hotspots
+### Power Formulas:
+- **Power**:  
+  \[
+  Power = \frac{Energy}{Time} = \frac{J}{sec}
+  \]
+- **Power Density**:  
+  \[
+  Power\ Density = \frac{Power}{Area} = \frac{W}{cm^2}
+  \]
 
-High temperature  high leakage  high
-power  higher temperature
-
-Smart layout that separates the hot units
-increases the processor’s power envelope
-Power envelope: max power that can be dissipated using cooling tech
-
-Bigger systems cool better and
-dissipate more power!
-
-$Power = \frac{energy}{time} = \frac{J}{sec}$
-$\text{Power density} = \frac{Power}{area} = \frac{W}{cm^2}$
+### Energy and Delay:
+- **Energy**:  
+  \[
+  Energy\ (E) = \frac{Energy}{Instruction} = \frac{Power \times sec}{Instruction} = \frac{Watt}{Max\ IPS}
+  \]
+- **Delay**:  
+  \[
+  Delay\ (D) = \frac{sec}{Instruction} = \frac{1}{MIPS}
+  \]
+- **Energy Delay Product**:  
+  \[
+  Energy\ Delay\ Product = E \times D = \frac{Watt}{MIPS^2}
+  \]
 
 ---
-$Energy E = \frac{energy}{instruction} = \frac{Power*sec}{instruction} = \frac{Watt}{Max IPS}$
-$Delay D = \frac{sec}{instruction} = \frac{1}{MIPS}$
-$Energy Delay Product = E*D = \frac{Watt}{MIPS^2}$
----
-## Sources of power consumption
 
-- Dynamic: Charging and discharging caps due to switching
-- Short Circuit Currents: Between power rails during switching
-- Leakage current: Diodes and transistors
+## Sources of Power Consumption
+
+1. **Dynamic Power**: Charging and discharging capacitors due to switching.
+2. **Short Circuit Currents**: Current flowing between power rails during switching.
+3. **Leakage Current**: Current through diodes and transistors even when inactive.
 
 ---
+
 ## Power vs. Speed
-In order to achieve high performance we need to
-put all the components that frequently talk to
-each other as close as possible
 
-Highly active components produces high power
-
-Close high power components cause hot spots
-
-Hot spots cause high leakage that increase the
-temperature.
-
-We need to reduce the frequency and to loose
-performance in-order to keep within the thermal
-constraints
+- **High Performance**: Requires placing frequently communicating components close together.
+- **High Power Components**: Highly active components produce high power, leading to hotspots.
+- **Hotspots**: Cause high leakage, increasing temperature.
+- **Trade-off**: Reducing frequency to manage thermal constraints may result in performance loss.
 
 ---
 
-## Power consumption of CMOS
+## Power Consumption of CMOS
 
-$P =\alpha C_L V^2_{dd} f$
+\[
+P = \alpha C_L V^2_{dd} f
+\]
 
-Where 
-$\alpha$: switching activity
-$C_L$: load capacitance
-$V_{dd}$: supply voltage (QUADRATIC RELATION!)
-$f$: switching frequency
+Where:
+- \(\alpha\): Switching activity
+- \(C_L\): Load capacitance
+- \(V_{dd}\): Supply voltage (quadratic relationship!)
+- \(f\): Switching frequency
+
+---
 
 ## Delay of CMOS
 
-$\tau = k C_L \frac{V_{dd}}{(V_{dd}-V_{t})^2}$
+\[
+\tau = k C_L \frac{V_{dd}}{(V_{dd} - V_t)^2}
+\]
 
-Where $V_t$ is threshold voltage (<< $V_{dd}$)
+Where:
+- \(V_t\): Threshold voltage (\(V_t << V_{dd}\))
+
+---
+
+## Power Saving Techniques
+
+1. **Reduce Power Supply (\(V\))**.
+2. **Reduce Frequency (\(f\))**.
+3. **Disable Unused Function Units**.
+4. **Disconnect from Power Supply When Not in Use**.
+
+### Gating Techniques:
+- **Clock Gating**: Disable clock to unused registers.
+- **Signal Gating**: Disable signals.
+- **Power Gating**: Deactivate \(V_{dd}\) for unused hardware.
+
+### Power-Down Modes:
+- **Idle Mode**: Clock distribution off.
+- **Nap Mode**: Caching off.
+- **Sleep Mode**: Power off to unused logic.
+
+When a device becomes idle, it transitions to a lower power state. Transitioning back to the active state requires additional time and energy. The optimal time threshold to transition to the sleep state balances:
+- **Too Soon**: Frequent start-up costs.
+- **Too Late**: Excessive time in high-power state.
+
+Generally, transition to sleep state when the cost of being active exceeds the cost of waking up.
 
 ---
 
-## Power saving
+## Dynamic Voltage and Frequency Scaling
 
-Reduce power supply V
-Reduce f
-Disable function units (control) not in use
-Disconnect from power supply when not in use
+- **Consume Only What You Need**.
+- Use the lowest frequency that meets performance targets.
+- Use the lowest \(V_{dd}\) that allows the desired frequency.
+- Regulated by software based on system load.
 
-### Gating
+If a variable voltage processor completes a task before the deadline, energy consumption can be reduced. For a single supply voltage \(V\), completing a task \(T\) just at its deadline minimizes energy consumption.
 
-Clock gating: Disable clock to unused registers
-Signal gating: Disable signals
-Power gating: Deactivate Vdd for unused hardware
-
-### Power-down modes
-
-Controlled by user of software: Idle mode (clock distribution off), nap mode (caching off), sleep mode (power off to unused logic)
-
-When a device becomes idle, it can transition to
-lower power usage state.
-
-A fixed amount of additional time and energy are
-required to transition back to active state when a
-new request for service arrives.
-
-What is the best time threshold to transition to the
-sleep state?
-
-Too soon: pay start-up cost too frequently.
-Too late: spend too much time in the high-
-power state
-
-Generally, transition to sleep state when the cost
-of being in active state is at least the cost of
-waking up.
-
-### Dynamic V and f scaling
-
-Consume as much as you need
-
-Use lowest frequency that achieves
-performance target
-
-Use lowest Vdd that allows desired
-frequency
-
-Regulated by software based on
-system load
-
-If a variable voltage processor completes a
-task before the deadline, the energy
-consumption can be reduced.
-
-If a processor uses a single supply voltage
-V and completes a task T just at its
-deadline, then V is the unique supply
-voltage which minimizes the energy
-consumption of T.
-
-Simple approach to do voltage
-scaling is based on the usage
-model(not on the workload). This
-approach does not need any OS
-support.
-
-Another approach is to build the
-power management policy into the
-processor’s firmware. This approach
-also does not require any OS modification.
-
-### Multicore optimisations
-
-SOC with heterogeneous processor
-Match workload to core with best
-energy efficiency
-According to some objective (energy,
-energy-delay,….)
-
-Switching by OS-level scheduler at OS
-time slice multiples
-
-Power down unused cores
+### Approaches:
+1. **Usage Model-Based**: Simple approach without OS support.
+2. **Firmware-Based**: Power management policy built into the processor’s firmware, also without OS modification.
 
 ---
-## Optimizing memory and cache
 
-For embedded systems, memory system
-can consume upto 90% of the energy
+## Multicore Optimizations
 
-System-on-Chip composed of multiple
-memories
+- **Heterogeneous Processors**: Match workloads to the most energy-efficient core.
+- **Objective**: Optimize for energy, energy-delay, etc.
+- **Switching**: OS-level scheduler switches at OS time slice multiples.
+- **Power Down Unused Cores**.
 
-Cache energy dissipation:
- Bit lines: precharge, read and write
-cycles
- Word lines: whenever a line is accessed
- Address decoders
- Peripheral circuits: comparators, control
-logic, etc.
+---
 
-### Techniques
+## Optimizing Memory and Cache
 
-#### Memory bank partitioning
-Partition memory into banks and only activate the one being accessed
+- **Memory System**: Can consume up to 90% of energy in embedded systems.
+- **System-on-Chip (SoC)**: Composed of multiple memories.
 
-Pros:
-Improves speed and lowers power
-Word capacitance reduced
-Number of activated bit cells reduced
+### Cache Energy Dissipation:
+- **Bit Lines**: Precharge, read, and write cycles.
+- **Word Lines**: Accessed whenever a line is accessed.
+- **Address Decoders**.
+- **Peripheral Circuits**: Comparators, control logic, etc.
 
-However, the bank decoding circuit adds
-delay and power
+### Techniques:
 
-Memories are typically divided to 2-8 banks
+#### Memory Bank Partitioning
+- Partition memory into banks and activate only the one being accessed.
+- **Pros**:
+  - Improves speed and lowers power.
+  - Reduces word capacitance and number of activated bit cells.
+- **Cons**:
+  - Bank decoding circuit adds delay and power.
+- **Typical Division**: 2-8 banks.
 
-#### Cache
-SRAM power reduction
-Cache sub banking
-Modifications to CAM cell
-Other techniques
+#### Cache Optimization
+- **SRAM Power Reduction**:
+  - Cache sub-banking.
+  - Modifications to CAM cell.
+  - Other techniques.
+
 ![[Pasted image 20250222041731.png]]
 
-#### Low power DRAM
-Conventional DRAMs refresh all rows with a fixed
-single time interval
-
-Refresh cycles stalls read and write accesses
-Consumes power
-
-Selective refresh architecture (SRA): Add a valid bit to each row, refresh only those with valid bit set
-Reduces 5%-80% of refreshes
-
-Variable refresh architecture (VRA): Data retention time of each cell is different
-Add a refresh period table and refresh counter to each
-row and refresh with the appropriate period to each row
-Reduces about 75% of refreshes
+#### Low Power DRAM
+- **Conventional DRAM**: Refreshes all rows with a fixed interval, stalling read/write accesses and consuming power.
+- **Selective Refresh Architecture (SRA)**:
+  - Adds a valid bit to each row; refreshes only rows with the valid bit set.
+  - Reduces 5%-80% of refreshes.
+- **Variable Refresh Architecture (VRA)**:
+  - Adds a refresh period table and refresh counter to each row; refreshes rows with appropriate periods.
+  - Reduces about 75% of refreshes.
 
 ---
-## Optimising bus
+
+## Optimizing Bus
 
 ![[Pasted image 20250222041919.png]]
-
