@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/ELL365 - Embedded Systems/Power Aware Architecture.md",
+                "file": "Courses/ELL365 - Embedded Systems/Software for Embedded Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Power Aware Architecture"
+              "title": "Software for Embedded Systems"
             }
           },
           {
@@ -193,8 +193,11 @@
   },
   "active": "cfd244009caaec65",
   "lastOpenFiles": [
-    "ELL884 - NLP/POS Tagging.md",
     "Courses/ELL365 - Embedded Systems/Power Aware Architecture.md",
+    "Courses/ELL365 - Embedded Systems/Software for Embedded Systems.md",
+    "Pasted image 20250222041919.png",
+    "Pasted image 20250222041731.png",
+    "ELL884 - NLP/POS Tagging.md",
     "Pasted image 20250219082303.png",
     "Courses/ELL365 - Embedded Systems/Microprocessors.md",
     "Pasted image 20250222024209.png",
@@ -225,8 +228,6 @@
     "Courses/HUL258 - Social and Political Philosophy/Socrates/Trial and Death.md",
     "Courses/HUL258 - Social and Political Philosophy/Socrates/The unexamined life is not worth living.md",
     "Courses/HUL258 - Social and Political Philosophy/Foucault.md",
-    "Pasted image 20250219083301.png",
-    "Pasted image 20250219083251.png",
     "Courses/ELL332 - Electric Drives",
     "Cost function.md",
     "Configs and Snippets/Homelab Configuration.md",

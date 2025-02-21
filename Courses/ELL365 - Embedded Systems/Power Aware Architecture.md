@@ -110,3 +110,97 @@ frequency
 
 Regulated by software based on
 system load
+
+If a variable voltage processor completes a
+task before the deadline, the energy
+consumption can be reduced.
+
+If a processor uses a single supply voltage
+V and completes a task T just at its
+deadline, then V is the unique supply
+voltage which minimizes the energy
+consumption of T.
+
+Simple approach to do voltage
+scaling is based on the usage
+model(not on the workload). This
+approach does not need any OS
+support.
+
+Another approach is to build the
+power management policy into the
+processor’s firmware. This approach
+also does not require any OS modification.
+
+### Multicore optimisations
+
+SOC with heterogeneous processor
+Match workload to core with best
+energy efficiency
+According to some objective (energy,
+energy-delay,….)
+
+Switching by OS-level scheduler at OS
+time slice multiples
+
+Power down unused cores
+
+---
+## Optimizing memory and cache
+
+For embedded systems, memory system
+can consume upto 90% of the energy
+
+System-on-Chip composed of multiple
+memories
+
+Cache energy dissipation:
+ Bit lines: precharge, read and write
+cycles
+ Word lines: whenever a line is accessed
+ Address decoders
+ Peripheral circuits: comparators, control
+logic, etc.
+
+### Techniques
+
+#### Memory bank partitioning
+Partition memory into banks and only activate the one being accessed
+
+Pros:
+Improves speed and lowers power
+Word capacitance reduced
+Number of activated bit cells reduced
+
+However, the bank decoding circuit adds
+delay and power
+
+Memories are typically divided to 2-8 banks
+
+#### Cache
+SRAM power reduction
+Cache sub banking
+Modifications to CAM cell
+Other techniques
+![[Pasted image 20250222041731.png]]
+
+#### Low power DRAM
+Conventional DRAMs refresh all rows with a fixed
+single time interval
+
+Refresh cycles stalls read and write accesses
+Consumes power
+
+Selective refresh architecture (SRA): Add a valid bit to each row, refresh only those with valid bit set
+Reduces 5%-80% of refreshes
+
+Variable refresh architecture (VRA): Data retention time of each cell is different
+Add a refresh period table and refresh counter to each
+row and refresh with the appropriate period to each row
+Reduces about 75% of refreshes
+
+---
+## Optimising bus
+
+![[Pasted image 20250222041919.png]]
+
