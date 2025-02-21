@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/ELL365 - Embedded Systems/Edge Computing.md",
+                "file": "Courses/ELL365 - Embedded Systems/Cloud vs. Edge Computing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Edge Computing"
+              "title": "Cloud vs. Edge Computing"
             }
           }
         ],
@@ -195,7 +195,7 @@
   "active": "d8abea242fca7468",
   "lastOpenFiles": [
     "Courses/ELL365 - Embedded Systems/Applications - IoT.md",
-    "Courses/ELL365 - Embedded Systems/Edge Computing.md",
+    "Courses/ELL365 - Embedded Systems/Cloud vs. Edge Computing.md",
     "Courses/ELL365 - Embedded Systems/Introduction to Embedded Systems.md",
     "Courses/ELL365 - Embedded Systems/Applications - Robotics.md",
     "Courses/ELL365 - Embedded Systems/Applications - Industrial.md",
