@@ -7,27 +7,17 @@
 
 ### Power Formulas:
 - **Power**:  
-  \[
-  Power = \frac{Energy}{Time} = \frac{J}{sec}
-  \]
+  $$Power = \frac{Energy}{Time} = \frac{J}{sec}$$
 - **Power Density**:  
-  \[
-  Power\ Density = \frac{Power}{Area} = \frac{W}{cm^2}
-  \]
+  $$Power\ Density = \frac{Power}{Area} = \frac{W}{cm^2}$$
 
 ### Energy and Delay:
 - **Energy**:  
-  \[
-  Energy\ (E) = \frac{Energy}{Instruction} = \frac{Power \times sec}{Instruction} = \frac{Watt}{Max\ IPS}
-  \]
+  $$Energy\ (E) = \frac{Energy}{Instruction} = \frac{Power \times sec}{Instruction} = \frac{Watt}{Max\ IPS}$$
 - **Delay**:  
-  \[
-  Delay\ (D) = \frac{sec}{Instruction} = \frac{1}{MIPS}
-  \]
+  $$Delay\ (D) = \frac{sec}{Instruction} = \frac{1}{MIPS}$$
 - **Energy Delay Product**:  
-  \[
-  Energy\ Delay\ Product = E \times D = \frac{Watt}{MIPS^2}
-  \]
+  $$Energy\ Delay\ Product = E \times D = \frac{Watt}{MIPS^2}$$
 
 ---
 
@@ -50,40 +40,36 @@
 
 ## Power Consumption of CMOS
 
-\[
-P = \alpha C_L V^2_{dd} f
-\]
+$$P = \alpha C_L V^2_{dd} f$$
 
 Where:
-- \(\alpha\): Switching activity
-- \(C_L\): Load capacitance
-- \(V_{dd}\): Supply voltage (quadratic relationship!)
-- \(f\): Switching frequency
+- $\alpha$: Switching activity
+- $C_L$: Load capacitance
+- $V_{dd}$: Supply voltage (quadratic relationship!)
+- $f$: Switching frequency
 
 ---
 
 ## Delay of CMOS
 
-\[
-\tau = k C_L \frac{V_{dd}}{(V_{dd} - V_t)^2}
-\]
+$$\tau = k C_L \frac{V_{dd}}{(V_{dd} - V_t)^2}$$
 
 Where:
-- \(V_t\): Threshold voltage (\(V_t << V_{dd}\))
+- $V_t$: Threshold voltage ($V_t << V_{dd}$)
 
 ---
 
 ## Power Saving Techniques
 
-1. **Reduce Power Supply (\(V\))**.
-2. **Reduce Frequency (\(f\))**.
+1. **Reduce Power Supply ($V$)**.
+2. **Reduce Frequency ($f$)**.
 3. **Disable Unused Function Units**.
 4. **Disconnect from Power Supply When Not in Use**.
 
 ### Gating Techniques:
 - **Clock Gating**: Disable clock to unused registers.
 - **Signal Gating**: Disable signals.
-- **Power Gating**: Deactivate \(V_{dd}\) for unused hardware.
+- **Power Gating**: Deactivate $V_{dd}$ for unused hardware.
 
 ### Power-Down Modes:
 - **Idle Mode**: Clock distribution off.
@@ -102,10 +88,10 @@ Generally, transition to sleep state when the cost of being active exceeds the c
 
 - **Consume Only What You Need**.
 - Use the lowest frequency that meets performance targets.
-- Use the lowest \(V_{dd}\) that allows the desired frequency.
+- Use the lowest $V_{dd}$ that allows the desired frequency.
 - Regulated by software based on system load.
 
-If a variable voltage processor completes a task before the deadline, energy consumption can be reduced. For a single supply voltage \(V\), completing a task \(T\) just at its deadline minimizes energy consumption.
+If a variable voltage processor completes a task before the deadline, energy consumption can be reduced. For a single supply voltage $V$, completing a task $T$ just at its deadline minimizes energy consumption.
 
 ### Approaches:
 1. **Usage Model-Based**: Simple approach without OS support.
