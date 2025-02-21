@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ELL884 - NLP/POS Tagging.md",
+                "file": "Courses/ELL365 - Embedded Systems/Power Aware Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "POS Tagging"
+              "title": "Power Aware Architecture"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Power Aware Architecture"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,10 +191,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8abea242fca7468",
+  "active": "cfd244009caaec65",
   "lastOpenFiles": [
-    "Courses/ELL365 - Embedded Systems/Microprocessors.md",
+    "ELL884 - NLP/POS Tagging.md",
     "Courses/ELL365 - Embedded Systems/Power Aware Architecture.md",
+    "Pasted image 20250219082303.png",
+    "Courses/ELL365 - Embedded Systems/Microprocessors.md",
     "Pasted image 20250222024209.png",
     "Pasted image 20250222024125.png",
     "Courses/ELL365 - Embedded Systems/System Design.md",
@@ -226,13 +227,10 @@
     "Courses/HUL258 - Social and Political Philosophy/Foucault.md",
     "Pasted image 20250219083301.png",
     "Pasted image 20250219083251.png",
-    "Pasted image 20250219082810.png",
     "Courses/ELL332 - Electric Drives",
     "Cost function.md",
     "Configs and Snippets/Homelab Configuration.md",
-    "ELL884 - NLP/POS Tagging.md",
     "Configs and Snippets",
-    "Hidden Markov Model.md",
     "ELL884 - NLP",
     "Courses/ELLxxx - CAD for VLSI Design",
     "Courses",
