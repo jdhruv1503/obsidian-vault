@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/ELL332 - Electric Drives/Quiz 1.md",
+                "file": "Courses/ELL365 - Embedded Systems/Applications - Robotics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quiz 1"
+              "title": "Applications - Robotics"
             }
           }
         ],
@@ -194,6 +194,13 @@
   },
   "active": "d8abea242fca7468",
   "lastOpenFiles": [
+    "Courses/ELL365 - Embedded Systems/Applications - Industrial.md",
+    "Courses/ELL365 - Embedded Systems/Applications - Robotics.md",
+    "Courses/ELL365 - Embedded Systems/IoT.md",
+    "Courses/ELL365 - Embedded Systems/Introduction to Embedded Systems.md",
+    "Courses/ELL365 - Embedded Systems/Policy.md",
+    "Courses/ELL332 - Electric Drives/Quiz 1.md",
+    "Courses/ELL365 - Embedded Systems",
     "Courses/ELL332 - Electric Drives/Phase Controlled Rectifiers.md",
     "Courses/ELL332 - Electric Drives/DC motors.md",
     "Pasted image 20250219085340.png",
@@ -210,7 +217,6 @@
     "Courses/HUL258 - Social and Political Philosophy/Socrates/Trial and Death.md",
     "Courses/HUL258 - Social and Political Philosophy/Socrates/The unexamined life is not worth living.md",
     "Courses/HUL258 - Social and Political Philosophy/Foucault.md",
-    "Courses/ELL332 - Electric Drives/Quiz 1.md",
     "Pasted image 20250219083301.png",
     "Pasted image 20250219083251.png",
     "Pasted image 20250219082810.png",
@@ -231,13 +237,8 @@
     "Courses/ELL409 - Machine Intelligence and Learning/3. Learning methods for Classification - Concept Learning.md",
     "Courses/ELL409 - Machine Intelligence and Learning/Materials/MachineLearningTomMitchell.pdf",
     "Courses/ELL409 - Machine Intelligence and Learning/1. Terminologies.md",
-    "Courses/ELL409 - Machine Intelligence and Learning/Definitions/Inductive bias.md",
-    "Courses/ELL409 - Machine Intelligence and Learning/Algorithms/Candidate elimination.md",
-    "Courses/ELL409 - Machine Intelligence and Learning/Algorithms/List-then-Eliminate.md",
     "Courses/ELL409 - Machine Intelligence and Learning/Materials/Concept Learning - Mitchell.ch2.pdf",
     "Courses/ELL409 - Machine Intelligence and Learning/Materials",
-    "ELL409 - Machine Intelligence and Learning/New folder",
-    "Courses/ELL409 - Machine Intelligence and Learning/Definitions/Version space.md",
-    "Courses/ELL409 - Machine Intelligence and Learning/Algorithms"
+    "ELL409 - Machine Intelligence and Learning/New folder"
   ]
 }
