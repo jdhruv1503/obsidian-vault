@@ -60,3 +60,53 @@ $f$: switching frequency
 $\tau = k C_L \frac{V_{dd}}{(V_{dd}-V_{t})^2}$
 
 Where $V_t$ is threshold voltage (<< $V_{dd}$)
+
+---
+
+## Power saving
+
+Reduce power supply V
+Reduce f
+Disable function units (control) not in use
+Disconnect from power supply when not in use
+
+### Gating
+
+Clock gating: Disable clock to unused registers
+Signal gating: Disable signals
+Power gating: Deactivate Vdd for unused hardware
+
+### Power-down modes
+
+Controlled by user of software: Idle mode (clock distribution off), nap mode (caching off), sleep mode (power off to unused logic)
+
+When a device becomes idle, it can transition to
+lower power usage state.
+
+A fixed amount of additional time and energy are
+required to transition back to active state when a
+new request for service arrives.
+
+What is the best time threshold to transition to the
+sleep state?
+
+Too soon: pay start-up cost too frequently.
+Too late: spend too much time in the high-
+power state
+
+Generally, transition to sleep state when the cost
+of being in active state is at least the cost of
+waking up.
+
+### Dynamic V and f scaling
+
+Consume as much as you need
+
+Use lowest frequency that achieves
+performance target
+
+Use lowest Vdd that allows desired
+frequency
+
+Regulated by software based on
+system load
