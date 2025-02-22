@@ -220,7 +220,6 @@ A **Configurable System-on-Chip (SoC)** integrates:
   - **High Instruction-Level Parallelism (ILP)**: Can achieve parallelism of 100 or more.
   - **No Branch Instructions**: Eliminates the overhead of branch prediction and handling.
 
-(Deepseek) - **Simplified Explanation**:
 Coarse-grained reconfigurable computing uses larger, pre-defined processing units (like ALUs) connected in a network. Once configured, the system runs without needing further changes, achieving high parallelism and efficiency. It avoids the complexity of branch instructions, making it ideal for tasks like signal processing.
 
 ---
