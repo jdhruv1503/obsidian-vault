@@ -255,7 +255,6 @@ A **superscalar processor** can execute more than one instruction per clock cycl
    - Virtual registers are used to handle multiple updates to the same physical register within a window of instructions.
    - A **scoreboard** keeps track of the mapping between virtual and physical registers.
 
-(Deepseek) - **What Are Reservation Stations?**:
 Reservation stations are temporary storage units within a superscalar processor that hold instructions until their operands are ready. They allow the processor to execute instructions out of order, improving efficiency by keeping the execution units busy.
 
 ### Key Points:
