@@ -59,42 +59,7 @@ Simplest model
 - Surveillance Systems.
 - Medical Devices
 
-### Mobile
-
-Phone 16 is built for Apple Intelligence, the personal intelligence system that helps you write, express yourself and get things done effortlessly. With groundbreaking privacy protections, no one else can access your data — not even Apple. Powered by advanced intelligence and Spatial Audio capture, Audio Mix lets you adjust the way voices sound in your videos using three different voice options.
-
-Spec
-
-Super Retina XDR display
-
-OLED display, 2556x1179-pixel resolution at 460 ppi
-
-A18 chip
-
-New 6‑core CPU
-
-New 5‑core GPU
-
-New 16‑core Neural Engine
-
-8GB RAM
-
-Advanced dual-camera system, 48MP Fusion: 26 mm, ƒ/1.6 aperture, Also enables 12MP 2x Telephoto:
-
-iOS 18 OS with Apple Intelligence
-
-Apple Intelligence combines generative models with a user's personal context to provide tailored information.
-
-5G (sub‑6 GHz) with 4x4 MIMO
-
-6
-
-Gigabit LTE with 4x4 MIMO and LAA
-
-6, Wi‑Fi 7 (802.11be) with 2x2 MIMO
-
-7, Bluetooth 5.3
-
+---
 ### Automobile as Embedded System: Automotive Electronics
 
 - Automotive electronics are any electrically-generated systems used in road vehicles.
@@ -105,8 +70,6 @@ Gigabit LTE with 4x4 MIMO and LAA
 ### What is an ECU?
 
 In the Automobile industry an electronic control unit (ECU) is an embedded electronic device, basically a digital computer, that reads signals coming from sensors placed at various parts and in different components of the car and depending on this information controls various important units e.g. engine and other automated operations within the car among many
-
-### ECU(Electronic Control Unit) and its mount location
 
 ### Types of ECU
 
