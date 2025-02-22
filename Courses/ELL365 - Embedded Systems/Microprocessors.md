@@ -93,7 +93,6 @@
 - **Barrel Shifter**: Pre-processes data before it enters the ALU.
 - **Increment/Decrement Logic**: Updates register content for sequential access independent of the ALU.
 
-(Deepseek) - **What is a barrel shifter?**  
 A barrel shifter is a digital circuit that can shift or rotate data by a specified number of bits in a single operation, enabling efficient data manipulation.
 
 ![[Pasted image 20250222045944.png]]
@@ -111,7 +110,6 @@ A barrel shifter is a digital circuit that can shift or rotate data by a specifi
 - **r14 (Link Register)**: Stores the return address when a subroutine is called.
 - **r15 (Program Counter)**: Holds the address of the next instruction to execute.
 
-(Deepseek) - **What is the role of these 3 in detail?**  
 - **r13 (Stack Pointer)**: Manages the stack, which is used for function calls, local variables, and saving registers.
 - **r14 (Link Register)**: Stores the return address for function calls, enabling the program to return to the correct location after a subroutine completes.
 - **r15 (Program Counter)**: Tracks the current execution point in the program, pointing to the next instruction to execute.
