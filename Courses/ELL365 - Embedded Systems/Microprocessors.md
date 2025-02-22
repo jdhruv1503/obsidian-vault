@@ -130,7 +130,6 @@ A barrel shifter is a digital circuit that can shift or rotate data by a specifi
 
 ![[Pasted image 20250222050128.png]]
 
-(Deepseek) - **Type the exact bits in CPSR for ARM and their roles**:
 - **N (Negative)**: Set if the result of an operation is negative.
 - **Z (Zero)**: Set if the result of an operation is zero.
 - **C (Carry)**: Set if an operation results in a carry-out.
@@ -212,7 +211,6 @@ Pipelining is a technique used to improve processor efficiency by breaking down 
    - The result of the ALU operation or data from memory is written back to the register file.
    - This stage ensures that load and arithmetic/logic instructions can be executed back-to-back without conflicts.
 
-(Deepseek) - **Explain Writeback Better**:
 The **Writeback (WB)** stage is the final step in the pipeline where the results of computations or data fetched from memory are written back to the register file. This stage ensures that the results are available for subsequent instructions. It also balances the pipeline by ensuring that only one register is written per clock cycle, preventing conflicts and maintaining smooth operation.
 
 ---
@@ -231,7 +229,6 @@ A **data hazard** occurs when the result of a computation or load is not availab
    - A **pipeline bubble** (stall) is introduced to wait for the data.
    - Forwarding can be used from two cycles before to minimize delays.
 
-(Deepseek) - **Simplified Explanation**:
 Data hazards happen when an instruction needs data that isn’t ready yet. For ALU operations, the processor uses **forwarding** to pass the result directly to the next instruction. For load operations, the processor might need to wait (insert a bubble) or use forwarding from earlier stages to avoid delays.
 
 ---
