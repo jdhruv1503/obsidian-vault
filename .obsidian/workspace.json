@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/ELL365 - Embedded Systems/Software for Embedded Systems.md",
+                "file": "Courses/ELL365 - Embedded Systems/Microprocessors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Software for Embedded Systems"
+              "title": "Microprocessors"
             }
           },
           {
@@ -179,14 +179,14 @@
   },
   "active": "b0e3307c071bde9b",
   "lastOpenFiles": [
-    "Courses/ELL365 - Embedded Systems/Course Policy.md",
     "Courses/ELL365 - Embedded Systems/Introduction to Embedded Systems.md",
+    "Courses/ELL365 - Embedded Systems/Course Policy.md",
+    "Courses/ELL365 - Embedded Systems/Cloud vs. Edge Computing.md",
     "Courses/ELL365 - Embedded Systems/Software for Embedded Systems.md",
     "Courses/ELL365 - Embedded Systems/Power Aware Architecture.md",
     "Courses/ELL365 - Embedded Systems/Microprocessors.md",
     "Courses/ELL365 - Embedded Systems/System-on-a-Chip (SOC).md",
     "Courses/ELL365 - Embedded Systems/System Design.md",
-    "Courses/ELL365 - Embedded Systems/Cloud vs. Edge Computing.md",
     "Courses/ELL365 - Embedded Systems/Applications - Robotics.md",
     "Courses/ELL365 - Embedded Systems/Applications - IoT.md",
     "Courses/ELL365 - Embedded Systems/Applications - Industrial.md",
