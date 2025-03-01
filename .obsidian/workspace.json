@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/ELL884 - Deep Learning for Natural Language Processing/7 - POS Tagging.md",
+                "file": "Courses/ELL884 - Deep Learning for Natural Language Processing/8 - Hidden Markov Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 - POS Tagging"
+              "title": "8 - Hidden Markov Model"
             }
           },
           {
@@ -177,8 +177,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8426297dd5e0e138",
+  "active": "b0e3307c071bde9b",
   "lastOpenFiles": [
+    "Pasted image 20250301150524.png",
+    "Pasted image 20250301150451.png",
+    "Courses/ELL884 - Deep Learning for Natural Language Processing/7 - POS Tagging.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/6 - Advanced Smoothing Methods.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/5 - Statistical Language Model.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/4 - Minimum Edit Distance.md",
@@ -186,8 +189,7 @@
     "Courses/ELL884 - Deep Learning for Natural Language Processing/3 - Morphology.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/2 - Regex.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/1 - Introduction.md",
-    "Courses/ELL884 - Deep Learning for Natural Language Processing/7 - POS Tagging.md",
-    "Courses/ELL884 - Deep Learning for Natural Language Processing/Hidden Markov Model.md",
+    "Courses/ELL884 - Deep Learning for Natural Language Processing/8 - Hidden Markov Model.md",
     "Courses/ELL365 - Embedded Systems/Microprocessors.md",
     "Courses/ELL365 - Embedded Systems/Introduction to Embedded Systems.md",
     "Courses/ELL365 - Embedded Systems/Course Policy.md",
@@ -209,7 +211,6 @@
     "Courses/ELL332 - Electric Drives/Images/Pasted image 20250219085120.png",
     "Courses/ELL332 - Electric Drives/Images/Pasted image 20250219085200.png",
     "Courses/ELL332 - Electric Drives/Images/Pasted image 20250219083251.png",
-    "Courses/ELL332 - Electric Drives/Images/Pasted image 20250219012317.png",
     "Courses/ELL332 - Electric Drives/Images",
     "Cost function.md",
     "Courses/HUL258 - Social and Political Philosophy/Socrates/The unexamined life is not worth living.md",
@@ -217,7 +218,6 @@
     "Pasted.md",
     "Courses/ELL365 - Embedded Systems",
     "Courses/ELL332 - Electric Drives/Phase Controlled Rectifiers.md",
-    "Courses/ELL332 - Electric Drives/DC-DC conversion.md",
     "Courses/ELL332 - Electric Drives",
     "Configs and Snippets",
     "Courses/ELL884 - Deep Learning for Natural Language Processing",
