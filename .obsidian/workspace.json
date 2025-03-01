@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/ELL884 - Deep Learning for Natural Language Processing/5 - Statistical Language Model.md",
+                "file": "Courses/ELL884 - Deep Learning for Natural Language Processing/6 - Advanced Smoothing Methods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 - Statistical Language Model"
+              "title": "6 - Advanced Smoothing Methods"
             }
           },
           {
@@ -179,8 +179,9 @@
   },
   "active": "b0e3307c071bde9b",
   "lastOpenFiles": [
-    "Courses/ELL884 - Deep Learning for Natural Language Processing/4 - Minimum Edit Distance.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/5 - Statistical Language Model.md",
+    "Courses/ELL884 - Deep Learning for Natural Language Processing/6 - Advanced Smoothing Methods.md",
+    "Courses/ELL884 - Deep Learning for Natural Language Processing/4 - Minimum Edit Distance.md",
     "Pasted image 20250301140417.png",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/3 - Morphology.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/2 - Regex.md",
@@ -217,7 +218,6 @@
     "Courses/ELL365 - Embedded Systems",
     "Courses/ELL332 - Electric Drives/Phase Controlled Rectifiers.md",
     "Courses/ELL332 - Electric Drives/DC-DC conversion.md",
-    "Courses/ELL831 - CAD for VLSI Design/Textbooks.md",
     "Courses/ELL332 - Electric Drives",
     "Configs and Snippets",
     "Courses/ELL884 - Deep Learning for Natural Language Processing",
