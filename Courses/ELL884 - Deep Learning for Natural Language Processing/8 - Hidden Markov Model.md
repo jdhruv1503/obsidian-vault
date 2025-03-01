@@ -45,6 +45,8 @@ $$
 ### **Problem 1: Likelihood Computation (Forward Algorithm)**
 **Goal**: Compute $P(O \mid \lambda)$, the probability of observations $O$ given model $\lambda = (A, B)$.  
 
+![[Pasted image 20250301150600.png]]
+
 #### **Forward Algorithm**:
 1. **Initialization**:  
    $$\alpha_1(j) = \pi_j \cdot b_j(o_1) \quad \forall j \in Q$$  
@@ -58,6 +60,10 @@ For $O = (3, 1, 3)$ and hidden states $\{\text{HOT}, \text{COLD}\}$:
 $$
 \alpha_3(\text{COLD}) = \alpha_2(\text{HOT}) \cdot a_{\text{HOT→COLD}} \cdot b_{\text{COLD}}(3)
 $$
+
+![[Pasted image 20250301150614.png]]
+
+![[Pasted image 20250301150706.png]]
 
 ---
 
@@ -77,6 +83,12 @@ $$
 **Example**:  
 For $O = (3, 1, 3)$, the Viterbi path might be $(\text{HOT}, \text{HOT}, \text{COLD})$.  
 
+![[Pasted image 20250301150721.png]]
+
+![[Pasted image 20250301150733.png]]
+
+![[Pasted image 20250301150750.png]]
+
 ---
 
 ### **Problem 3: Learning (Forward-Backward/Baum-Welch Algorithm)**
@@ -94,6 +106,9 @@ For $O = (3, 1, 3)$, the Viterbi path might be $(\text{HOT}, \text{HOT}, \text{C
      $$\hat{a}_{ij} = \frac{\sum_{t=1}^{T-1} \xi_t(i,j)}{\sum_{t=1}^{T-1} \sum_{k=1}^N \xi_t(i,k)}$$  
    - Update emission probabilities:  
      $$\hat{b}_j(v_k) = \frac{\sum_{t=1 \text{ s.t. } o_t=v_k}^T \gamma_t(j)}{\sum_{t=1}^T \gamma_t(j)}$$  
+![[Pasted image 20250301150810.png]]
+
+![[Pasted image 20250301150826.png]]
 
 ---
 
