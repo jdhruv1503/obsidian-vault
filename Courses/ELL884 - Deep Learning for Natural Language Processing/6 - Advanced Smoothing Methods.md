@@ -96,40 +96,8 @@ $$
 
 The discount **d** can be optimized using held-out data:
 
-$$d = \arg\max_d \sum \log P_{KN}(w_i|w_{i-1}) \text{ on held-out data}$$1[4](https://en.wikipedia.org/wiki/Kneser%E2%80%93Ney_smoothing)
+$$d = \arg\max_d \sum \log P_{KN}(w_i|w_{i-1}) \text{ on held-out data}$$
 
 ## Stupid Backoff
 
-Uses **fixed λ (0.4)** without training:
-
-S(w_i|context) = \begin{cases} \frac{c(context,w_i)}{c(context)} & \text{if count > 0} \\ 0.4 \cdot S(w_i|shorter\ context) & \text{otherwise} \end{cases}$$[3][7] | Method | λ Training | Formula | |-----------------|-------------------------------------|-------------------------------------------------------------------------| | Kneser-Ney | Derived from counts | λ dependent on context diversity and discount factor | | Linear Interpolation | Trained via held-out optimization | $\arg\max_{\lambda} \sum \log(\lambda_1P_3 + \lambda_2P_2 + \lambda_3P_1)$ [1] | | Stupid Backoff | Fixed (0.4) | No probability normalization, pure backoff with penalty | Key differences: - Kneser-Ney λ is **context-sensitive** and mathematically derived - Stupid Backoff uses **constant penalty** (0.4) per backoff step - Linear interpolation (different from backoff) trains λ weights using EM on held-out data[1][8]
-
-### Citations:
-
-1. [https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/50683439/b5e0a5e8-6394-4505-b846-1b4ff76f0111/lec4-1.pdf](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/50683439/b5e0a5e8-6394-4505-b846-1b4ff76f0111/lec4-1.pdf)
-2. [https://iq.opengenus.org/kneser-ney-smoothing-absolute-discounting/](https://iq.opengenus.org/kneser-ney-smoothing-absolute-discounting/)
-3. [https://stackoverflow.com/questions/16383194/stupid-backoff-implementation-clarification](https://stackoverflow.com/questions/16383194/stupid-backoff-implementation-clarification)
-4. [https://en.wikipedia.org/wiki/Kneser%E2%80%93Ney_smoothing](https://en.wikipedia.org/wiki/Kneser%E2%80%93Ney_smoothing)
-5. [https://cran.r-project.org/web/packages/sbo/vignettes/sbo.html](https://cran.r-project.org/web/packages/sbo/vignettes/sbo.html)
-6. [https://www.scaler.com/topics/nlp/backoff-in-nlp/](https://www.scaler.com/topics/nlp/backoff-in-nlp/)
-7. [https://1cademy.com/node/stupid-backoff/CfjdPOnpZoC4lfo3d27t](https://1cademy.com/node/stupid-backoff/CfjdPOnpZoC4lfo3d27t)
-8. [http://aritter.github.io/courses/5525_slides/language%20models.pdf](http://aritter.github.io/courses/5525_slides/language%20models.pdf)
-9. [https://www.researchgate.net/post/A-simple-numerical-example-for-Kneser-Ney-Smoothing](https://www.researchgate.net/post/A-simple-numerical-example-for-Kneser-Ney-Smoothing)
-10. [https://stats.stackexchange.com/questions/246011/a-simple-numerical-example-for-kneser-ney-smoothing](https://stats.stackexchange.com/questions/246011/a-simple-numerical-example-for-kneser-ney-smoothing)
-11. [https://www.youtube.com/watch?v=ody1ysUTD7o](https://www.youtube.com/watch?v=ody1ysUTD7o)
-12. [https://rpubs.com/pferriere/dscapreport](https://rpubs.com/pferriere/dscapreport)
-13. [https://www.cs.cornell.edu/courses/cs5740/2019sp/lectures/07-lm.pdf](https://www.cs.cornell.edu/courses/cs5740/2019sp/lectures/07-lm.pdf)
-14. [https://www.cse.iitd.ac.in/~mausam/courses/csl772/autumn2014/lectures/07-lm.pdf](https://www.cse.iitd.ac.in/~mausam/courses/csl772/autumn2014/lectures/07-lm.pdf)
-15. [https://www.studocu.com/in/document/vels-institute-of-science-technology-and-advanced-studies/natural-language-processing/smoothing-and-back-off/105257436](https://www.studocu.com/in/document/vels-institute-of-science-technology-and-advanced-studies/natural-language-processing/smoothing-and-back-off/105257436)
-16. [https://web.stanford.edu/~jurafsky/slp3/3.pdf](https://web.stanford.edu/~jurafsky/slp3/3.pdf)
-17. [https://web.eecs.umich.edu/~wangluxy/archive/neu_courses/cs6120_sp2018/slides_cs6120_sp18/lm.pdf](https://web.eecs.umich.edu/~wangluxy/archive/neu_courses/cs6120_sp2018/slides_cs6120_sp18/lm.pdf)
-18. [http://smithamilli.com/blog/kneser-ney/](http://smithamilli.com/blog/kneser-ney/)
-19. [https://stackoverflow.com/questions/35242155/kneser-ney-smoothing-of-trigrams-using-python-nltk](https://stackoverflow.com/questions/35242155/kneser-ney-smoothing-of-trigrams-using-python-nltk)
-20. [https://github.com/yandexdataschool/nlp_course/issues/30](https://github.com/yandexdataschool/nlp_course/issues/30)
-21. [https://www.youtube.com/watch?v=9SlJ76HtjoE](https://www.youtube.com/watch?v=9SlJ76HtjoE)
-22. [https://web.stanford.edu/~jurafsky/slp3/slides/LM_4.pdf](https://web.stanford.edu/~jurafsky/slp3/slides/LM_4.pdf)
-23. [https://github.com/hanks/Natural-Language-Processing/blob/master/pa2-autocorrect-v1/python/StupidBackoffLanguageModel.py](https://github.com/hanks/Natural-Language-Processing/blob/master/pa2-autocorrect-v1/python/StupidBackoffLanguageModel.py)
-
----
-
-Answer from Perplexity: [pplx.ai/share](https://www.perplexity.ai/search/pplx.ai/share)
+Uses **fixed λ (0.4)** without training.
