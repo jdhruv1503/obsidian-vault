@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/ELL884 - Deep Learning for Natural Language Processing/11 - Word Similarity.md",
+                "file": "Courses/ELL884 - Deep Learning for Natural Language Processing/2 - Regex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11 - Word Similarity"
+              "title": "2 - Regex"
             }
           },
           {
@@ -179,8 +179,8 @@
   },
   "active": "b0e3307c071bde9b",
   "lastOpenFiles": [
-    "Courses/ELL884 - Deep Learning for Natural Language Processing/12 - Word Representation.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/11 - Word Similarity.md",
+    "Courses/ELL884 - Deep Learning for Natural Language Processing/12 - Word Representation.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/10 - Context Free Grammars.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/9 - Syntactic Parsing.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/8 - Hidden Markov Model.md",
