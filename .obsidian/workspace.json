@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/ELL884 - Deep Learning for Natural Language Processing/2 - Regex.md",
+                "file": "Courses/ELL884 - Deep Learning for Natural Language Processing/6 - Advanced Smoothing Methods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - Regex"
+              "title": "6 - Advanced Smoothing Methods"
             }
           },
           {
@@ -179,6 +179,11 @@
   },
   "active": "b0e3307c071bde9b",
   "lastOpenFiles": [
+    "Courses/ELL884 - Deep Learning for Natural Language Processing/5 - Statistical Language Model.md",
+    "Courses/ELL884 - Deep Learning for Natural Language Processing/6 - Advanced Smoothing Methods.md",
+    "Courses/ELL884 - Deep Learning for Natural Language Processing/4 - Minimum Edit Distance.md",
+    "Courses/ELL884 - Deep Learning for Natural Language Processing/3 - Morphology.md",
+    "Courses/ELL884 - Deep Learning for Natural Language Processing/2 - Regex.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/11 - Word Similarity.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/12 - Word Representation.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/10 - Context Free Grammars.md",
@@ -195,11 +200,6 @@
     "Pasted image 20250301150524.png",
     "Pasted image 20250301150451.png",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/7 - POS Tagging.md",
-    "Courses/ELL884 - Deep Learning for Natural Language Processing/6 - Advanced Smoothing Methods.md",
-    "Courses/ELL884 - Deep Learning for Natural Language Processing/5 - Statistical Language Model.md",
-    "Courses/ELL884 - Deep Learning for Natural Language Processing/4 - Minimum Edit Distance.md",
-    "Courses/ELL884 - Deep Learning for Natural Language Processing/3 - Morphology.md",
-    "Courses/ELL884 - Deep Learning for Natural Language Processing/2 - Regex.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/1 - Introduction.md",
     "Courses/ELL365 - Embedded Systems/Microprocessors.md",
     "Courses/ELL365 - Embedded Systems/Introduction to Embedded Systems.md",
