@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/ELL884 - Deep Learning for Natural Language Processing/10 - Context Free Grammars.md",
+                "file": "Courses/ELL884 - Deep Learning for Natural Language Processing/11 - Word Similarity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - Context Free Grammars"
+              "title": "11 - Word Similarity"
             }
           },
           {
@@ -179,8 +179,9 @@
   },
   "active": "b0e3307c071bde9b",
   "lastOpenFiles": [
-    "Courses/ELL884 - Deep Learning for Natural Language Processing/9 - Syntactic Parsing.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/10 - Context Free Grammars.md",
+    "Courses/ELL884 - Deep Learning for Natural Language Processing/11 - Word Similarity.md",
+    "Courses/ELL884 - Deep Learning for Natural Language Processing/9 - Syntactic Parsing.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/8 - Hidden Markov Model.md",
     "Pasted image 20250301150826.png",
     "Pasted image 20250301150810.png",
@@ -216,7 +217,6 @@
     "Cost function.md",
     "Courses/HUL258 - Social and Political Philosophy/Socrates/The unexamined life is not worth living.md",
     "Courses/ELL332 - Electric Drives/Quiz 1.md",
-    "Pasted.md",
     "Courses/ELL365 - Embedded Systems",
     "Courses/ELL332 - Electric Drives",
     "Configs and Snippets",
