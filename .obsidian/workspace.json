@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/ELL884 - Deep Learning for Natural Language Processing/8 - Hidden Markov Model.md",
+                "file": "Courses/ELL884 - Deep Learning for Natural Language Processing/10 - Context Free Grammars.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8 - Hidden Markov Model"
+              "title": "10 - Context Free Grammars"
             }
           },
           {
@@ -179,6 +179,9 @@
   },
   "active": "b0e3307c071bde9b",
   "lastOpenFiles": [
+    "Courses/ELL884 - Deep Learning for Natural Language Processing/9 - Syntactic Parsing.md",
+    "Courses/ELL884 - Deep Learning for Natural Language Processing/10 - Context Free Grammars.md",
+    "Courses/ELL884 - Deep Learning for Natural Language Processing/8 - Hidden Markov Model.md",
     "Pasted image 20250301150826.png",
     "Pasted image 20250301150810.png",
     "Pasted image 20250301150750.png",
@@ -193,11 +196,9 @@
     "Courses/ELL884 - Deep Learning for Natural Language Processing/6 - Advanced Smoothing Methods.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/5 - Statistical Language Model.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/4 - Minimum Edit Distance.md",
-    "Pasted image 20250301140417.png",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/3 - Morphology.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/2 - Regex.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/1 - Introduction.md",
-    "Courses/ELL884 - Deep Learning for Natural Language Processing/8 - Hidden Markov Model.md",
     "Courses/ELL365 - Embedded Systems/Microprocessors.md",
     "Courses/ELL365 - Embedded Systems/Introduction to Embedded Systems.md",
     "Courses/ELL365 - Embedded Systems/Course Policy.md",
@@ -217,7 +218,6 @@
     "Courses/ELL332 - Electric Drives/Quiz 1.md",
     "Pasted.md",
     "Courses/ELL365 - Embedded Systems",
-    "Courses/ELL332 - Electric Drives/Phase Controlled Rectifiers.md",
     "Courses/ELL332 - Electric Drives",
     "Configs and Snippets",
     "Courses/ELL884 - Deep Learning for Natural Language Processing",
