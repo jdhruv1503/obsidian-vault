@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/ELL884 - Deep Learning for Natural Language Processing/8 - Hidden Markov Model.md",
+                "file": "Courses/ELL884 - Deep Learning for Natural Language Processing/10 - Context Free Grammars.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8 - Hidden Markov Model"
+              "title": "10 - Context Free Grammars"
+            }
+          },
+          {
+            "id": "426497b63a3e18e1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
             }
           },
           {
@@ -35,7 +47,8 @@
               "title": "POS Tagging"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,19 +190,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0e3307c071bde9b",
+  "active": "426497b63a3e18e1",
   "lastOpenFiles": [
-    "Courses/ELL884 - Deep Learning for Natural Language Processing/7 - POS Tagging.md",
-    "Courses/ELL884 - Deep Learning for Natural Language Processing/6 - Advanced Smoothing Methods.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/5 - Statistical Language Model.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/4 - Minimum Edit Distance.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/3 - Morphology.md",
+    "Courses/ELL884 - Deep Learning for Natural Language Processing/1 - Introduction.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/2 - Regex.md",
+    "Courses/ELL884 - Deep Learning for Natural Language Processing/8 - Hidden Markov Model.md",
+    "Courses/ELL884 - Deep Learning for Natural Language Processing/7 - POS Tagging.md",
+    "Courses/ELL884 - Deep Learning for Natural Language Processing/6 - Advanced Smoothing Methods.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/11 - Word Similarity.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/12 - Word Representation.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/10 - Context Free Grammars.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/9 - Syntactic Parsing.md",
-    "Courses/ELL884 - Deep Learning for Natural Language Processing/8 - Hidden Markov Model.md",
     "Pasted image 20250301150826.png",
     "Pasted image 20250301150810.png",
     "Pasted image 20250301150750.png",
@@ -200,7 +214,6 @@
     "Pasted image 20250301150600.png",
     "Pasted image 20250301150524.png",
     "Pasted image 20250301150451.png",
-    "Courses/ELL884 - Deep Learning for Natural Language Processing/1 - Introduction.md",
     "Courses/ELL365 - Embedded Systems/Microprocessors.md",
     "Courses/ELL365 - Embedded Systems/Introduction to Embedded Systems.md",
     "Courses/ELL365 - Embedded Systems/Course Policy.md",
