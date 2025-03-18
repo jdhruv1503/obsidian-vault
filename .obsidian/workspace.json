@@ -25,12 +25,14 @@
             "id": "426497b63a3e18e1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "Courses/ELL831 - CAD for VLSI Design/Todo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "Todo"
             }
           },
           {
@@ -192,6 +194,7 @@
   },
   "active": "426497b63a3e18e1",
   "lastOpenFiles": [
+    "Courses/ELL831 - CAD for VLSI Design/Todo.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/5 - Statistical Language Model.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/4 - Minimum Edit Distance.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/3 - Morphology.md",
@@ -229,7 +232,6 @@
     "Courses/ELL365 - Embedded Systems/Images",
     "Courses/ELL332 - Electric Drives/Images",
     "Cost function.md",
-    "Courses/HUL258 - Social and Political Philosophy/Socrates/The unexamined life is not worth living.md",
     "Courses/ELL365 - Embedded Systems",
     "Courses/ELL332 - Electric Drives",
     "Configs and Snippets",
