@@ -1,4 +1,4 @@
-# Power and Energy in Processors
+		# Power and Energy in Processors
 
 - **Hotspots**: Power consumption is usually not distributed evenly, leading to hotspots.
 - **High Temperature**: High temperature increases leakage, which increases power consumption, further raising temperature.

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/ELL831 - CAD for VLSI Design/Todo.md",
+                "file": "Courses/ELL365 - Embedded Systems/Power Aware Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Todo"
+              "title": "Power Aware Architecture"
             }
           },
           {
@@ -194,6 +194,16 @@
   },
   "active": "426497b63a3e18e1",
   "lastOpenFiles": [
+    "Courses/ELL365 - Embedded Systems/System-on-a-Chip (SOC).md",
+    "Courses/ELL365 - Embedded Systems/System Design.md",
+    "Courses/ELL365 - Embedded Systems/Software for Embedded Systems.md",
+    "Courses/ELL365 - Embedded Systems/Power Aware Architecture.md",
+    "Courses/ELL365 - Embedded Systems/Microprocessors.md",
+    "Courses/ELL365 - Embedded Systems/Course Policy.md",
+    "Courses/ELL365 - Embedded Systems/Cloud vs. Edge Computing.md",
+    "Courses/ELL365 - Embedded Systems/Applications - IoT.md",
+    "Courses/ELL365 - Embedded Systems/Applications - Industrial.md",
+    "Courses/ELL365 - Embedded Systems/Introduction to Embedded Systems.md",
     "Courses/ELL831 - CAD for VLSI Design/Todo.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/5 - Statistical Language Model.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/4 - Minimum Edit Distance.md",
@@ -217,17 +227,7 @@
     "Pasted image 20250301150600.png",
     "Pasted image 20250301150524.png",
     "Pasted image 20250301150451.png",
-    "Courses/ELL365 - Embedded Systems/Microprocessors.md",
-    "Courses/ELL365 - Embedded Systems/Introduction to Embedded Systems.md",
-    "Courses/ELL365 - Embedded Systems/Course Policy.md",
-    "Courses/ELL365 - Embedded Systems/Cloud vs. Edge Computing.md",
-    "Courses/ELL365 - Embedded Systems/Software for Embedded Systems.md",
-    "Courses/ELL365 - Embedded Systems/Power Aware Architecture.md",
-    "Courses/ELL365 - Embedded Systems/System-on-a-Chip (SOC).md",
-    "Courses/ELL365 - Embedded Systems/System Design.md",
     "Courses/ELL365 - Embedded Systems/Applications - Robotics.md",
-    "Courses/ELL365 - Embedded Systems/Applications - IoT.md",
-    "Courses/ELL365 - Embedded Systems/Applications - Industrial.md",
     "Courses/ELL332 - Electric Drives/DC motors.md",
     "Courses/ELL365 - Embedded Systems/Images",
     "Courses/ELL332 - Electric Drives/Images",
