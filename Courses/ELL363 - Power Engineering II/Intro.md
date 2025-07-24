@@ -10,3 +10,11 @@ Attd > 75 percent (micro quizzes only, no marking)
 
 ---
 
+Nagrath-Kothari
+Operational Research - HA Taha
+Wood-Wollenberg Power Generation
+Protesction - Paithankar, Bhide
+Synchronized Phasor Measurements - Phadke, Thorp
+
+---
+
