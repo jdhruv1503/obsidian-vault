@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/ELL363 - Power Engineering II/Intro.md",
+                "file": "Courses/ELL405 - OS/Intro.md",
                 "mode": "source",
                 "source": false
               },
@@ -209,6 +209,8 @@
   "active": "544cf6b30370d2cc",
   "lastOpenFiles": [
     "Courses/ELL363 - Power Engineering II/Intro.md",
+    "Courses/ELL405 - OS/Intro.md",
+    "Courses/ELL405 - OS",
     "Courses/ELL363 - Power Engineering II",
     "Courses/ELL365 - Embedded Systems/System-on-a-Chip (SOC).md",
     "Courses/ELL365 - Embedded Systems/System Design.md",
@@ -244,7 +246,6 @@
     "Pasted image 20250301150524.png",
     "Pasted image 20250301150451.png",
     "Courses/ELL365 - Embedded Systems/Applications - Robotics.md",
-    "Courses/ELL332 - Electric Drives/DC motors.md",
     "Courses/ELL365 - Embedded Systems/Images",
     "Courses/ELL332 - Electric Drives/Images",
     "Courses/ELL365 - Embedded Systems",
@@ -252,7 +253,6 @@
     "Configs and Snippets",
     "Courses/ELL884 - Deep Learning for Natural Language Processing",
     "Courses/ELL831 - CAD for VLSI Design",
-    "Courses",
-    "Courses/ELL409 - Machine Intelligence and Learning/Materials/MachineLearningTomMitchell.pdf"
+    "Courses"
   ]
 }
