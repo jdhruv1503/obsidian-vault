@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "544cf6b30370d2cc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
+          },
+          {
             "id": "d8abea242fca7468",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,7 +204,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "426497b63a3e18e1",
+  "active": "544cf6b30370d2cc",
   "lastOpenFiles": [
     "Courses/ELL365 - Embedded Systems/System-on-a-Chip (SOC).md",
     "Courses/ELL365 - Embedded Systems/System Design.md",
