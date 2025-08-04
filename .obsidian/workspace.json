@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/ELL405 - OS/Intro.md",
+                "file": "Courses/COL202 - Discrete Math/Predicate Logic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro"
+              "title": "Predicate Logic"
             }
           },
           {
@@ -208,8 +208,11 @@
   },
   "active": "544cf6b30370d2cc",
   "lastOpenFiles": [
-    "Courses/ELL363 - Power Engineering II/Intro.md",
+    "Courses/ELL831 - CAD for VLSI Design/Textbooks.md",
+    "Courses/COL202 - Discrete Math/Predicate Logic.md",
     "Courses/ELL405 - OS/Intro.md",
+    "Courses/COL202 - Discrete Math",
+    "Courses/ELL363 - Power Engineering II/Intro.md",
     "Courses/ELL405 - OS",
     "Courses/ELL363 - Power Engineering II",
     "Courses/ELL365 - Embedded Systems/System-on-a-Chip (SOC).md",
@@ -234,7 +237,6 @@
     "Courses/ELL884 - Deep Learning for Natural Language Processing/11 - Word Similarity.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/12 - Word Representation.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/10 - Context Free Grammars.md",
-    "Courses/ELL884 - Deep Learning for Natural Language Processing/9 - Syntactic Parsing.md",
     "Pasted image 20250301150826.png",
     "Pasted image 20250301150810.png",
     "Pasted image 20250301150750.png",
@@ -245,14 +247,12 @@
     "Pasted image 20250301150600.png",
     "Pasted image 20250301150524.png",
     "Pasted image 20250301150451.png",
-    "Courses/ELL365 - Embedded Systems/Applications - Robotics.md",
     "Courses/ELL365 - Embedded Systems/Images",
     "Courses/ELL332 - Electric Drives/Images",
     "Courses/ELL365 - Embedded Systems",
     "Courses/ELL332 - Electric Drives",
     "Configs and Snippets",
     "Courses/ELL884 - Deep Learning for Natural Language Processing",
-    "Courses/ELL831 - CAD for VLSI Design",
-    "Courses"
+    "Courses/ELL831 - CAD for VLSI Design"
   ]
 }
