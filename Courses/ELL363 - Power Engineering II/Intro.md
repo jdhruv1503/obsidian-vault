@@ -31,6 +31,13 @@ Synchronized Phasor Measurements - Phadke, Thorp
 - omit from B', angle-shifting effects of phase shifters by setting t = 1 (at 0deg)
 - omit from B', effect of megavar flow (shunt caps and reactors)
 - set taps t=1 of off-nominal transformers
-- Ignore R in equivalent pi network
+- Ignore R in equivalent pi network (lossless network)
+
+$\Delta |V_f| = 0$
+
+$[ \bar B] [ \Delta |V| ] = [ \frac{ \Delta Q }{ |V| } ]$ is not required
+
+$P_{ij} = B_{ij} (\delta i - \delta j)$
+
 
 
