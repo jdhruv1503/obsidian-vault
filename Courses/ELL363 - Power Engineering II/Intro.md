@@ -18,3 +18,19 @@ Synchronized Phasor Measurements - Phadke, Thorp
 
 ---
 
+
+- NR load flow
+- Decoupled load flow
+- Fast decoupled load flow with assumptions (constant Jacobians - symmetrical and sparse)
+
+---
+
+# DC load flow
+
+- All bus voltages assumed constant at nominal values, 1pu
+- omit from B', angle-shifting effects of phase shifters by setting t = 1 (at 0deg)
+- omit from B', effect of megavar flow (shunt caps and reactors)
+- set taps t=1 of off-nominal transformers
+- Ignore R in equivalent pi network
+
+
