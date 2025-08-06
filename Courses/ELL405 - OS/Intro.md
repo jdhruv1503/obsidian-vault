@@ -7,3 +7,4 @@ Random quizzes: 10
 Term paper/project: 30 (groups of 2-3)
 
 ---
+
