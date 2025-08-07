@@ -39,5 +39,5 @@ $[ \bar B] [ \Delta |V| ] = [ \frac{ \Delta Q }{ |V| } ]$ is not required
 
 $P_{ij} = B_{ij} (\delta i - \delta j)$
 
-
+---
 
