@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/AIL722 - Reinforcement Learning/Untitled.md",
+                "file": "Courses/AIL722 - Reinforcement Learning/MDPs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "MDPs"
             }
           },
           {
@@ -209,7 +209,7 @@
   "active": "544cf6b30370d2cc",
   "lastOpenFiles": [
     "Courses/Untitled.md",
-    "Courses/AIL722 - Reinforcement Learning/Untitled.md",
+    "Courses/AIL722 - Reinforcement Learning/MDPs.md",
     "Courses/AIL722 - Reinforcement Learning",
     "Courses/ELL363 - Power Engineering II/Intro.md",
     "Courses/ELL405 - OS/Intro.md",
