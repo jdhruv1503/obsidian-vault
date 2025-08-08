@@ -47,3 +47,5 @@ $P_{ij} = B_{ij} (\delta i - \delta j)$
 4. contingency selection
 5. contigency evaluation
 
+---
+
