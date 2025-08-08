@@ -28,4 +28,9 @@ Some utility function of the sequence of rewards you get by following a policy -
 
 ## Optimality
 
-Optimal MDP solution: A policy $\pi$ where its value function (Called optimal value function) dominates all other value functions for all other histories h. For all histories h, $V\sup{*} $
+Optimal MDP solution: A policy $\pi$ where its value function (Called optimal value function) dominates all other value functions for all other histories h. For all histories h, $V^{*}(h) >= V^{\pi}(h)$
+
+## Finite Horizon MDP
+
+Finite number of timesteps
+
