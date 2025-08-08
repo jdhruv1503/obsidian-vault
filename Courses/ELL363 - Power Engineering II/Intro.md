@@ -41,3 +41,9 @@ $P_{ij} = B_{ij} (\delta i - \delta j)$
 
 ---
 
+1. data collection
+2. contigency analysis
+3. prepare list of probable contigencies
+4. contingency selection
+5. contigency evaluation
+
