@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/AIL722 - Reinforcement Learning/MDPs.md",
+                "file": "TechOps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MDPs"
+              "title": "TechOps"
             }
           },
           {
@@ -208,8 +208,9 @@
   },
   "active": "544cf6b30370d2cc",
   "lastOpenFiles": [
-    "Courses/Untitled.md",
     "Courses/AIL722 - Reinforcement Learning/MDPs.md",
+    "TechOps.md",
+    "Courses/Untitled.md",
     "Courses/AIL722 - Reinforcement Learning",
     "Courses/ELL363 - Power Engineering II/Intro.md",
     "Courses/ELL405 - OS/Intro.md",
@@ -237,7 +238,6 @@
     "Courses/ELL884 - Deep Learning for Natural Language Processing/8 - Hidden Markov Model.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/7 - POS Tagging.md",
     "Courses/ELL884 - Deep Learning for Natural Language Processing/6 - Advanced Smoothing Methods.md",
-    "Courses/ELL884 - Deep Learning for Natural Language Processing/11 - Word Similarity.md",
     "Pasted image 20250301150826.png",
     "Pasted image 20250301150810.png",
     "Pasted image 20250301150750.png",
