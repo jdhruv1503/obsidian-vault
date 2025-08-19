@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "POS Tagging"
             }
+          },
+          {
+            "id": "1c5448fb6f86ea5c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -198,6 +210,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -206,7 +219,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8426297dd5e0e138",
+  "active": "1c5448fb6f86ea5c",
   "lastOpenFiles": [
     "Table.md",
     "Courses/HUL258 - Social and Political Philosophy/Socrates/The Sophists.md",
