@@ -67,12 +67,14 @@
             "id": "1c5448fb6f86ea5c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.10"
+                "file": "Courses/ELL409 - Machine Intelligence and Learning/5. Evaluation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
+              "icon": "lucide-file",
+              "title": "5. Evaluation"
             }
           }
         ],
@@ -133,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 547.5
   },
   "right": {
     "id": "3785eb14d30a35c9",
